@@ -4,9 +4,5 @@ build
 seeds
 .next
 pods/service-connections
-winter_intensive
-.next
-.next
 .DS_Store
-
 .dendron.cache.*
