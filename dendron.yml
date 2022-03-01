@@ -23,10 +23,6 @@ workspace:
     vaults:
         -
             fsPath: winter_intensive
-            remote:
-                type: git
-                url: 'https://github.com/wrdwllm/winter_intensive.git'
-            name: winter_intensive
     journal:
         dailyDomain: daily
         name: journal
