@@ -3,6 +3,9 @@
         {
             "path": "winter_intensive"
         }
+        {
+            "path": "."
+        }
     ],
     "settings": {
         "dendron.rootDir": ".",
