@@ -64,9 +64,6 @@ workspace:
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
-site:
-    assetsPrefix: /winter_intensive
-    siteUrl: https://wrdwllm.github.io
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
