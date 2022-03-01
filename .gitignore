@@ -1,8 +1,7 @@
 node_modules
 .dendron.*
 build
-seeds
 .next
-pods/service-connections
+.history
+docs
 .DS_Store
-.dendron.cache.*
