@@ -22,7 +22,8 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: winter_intensive
+            fsPath: winter-intensive
+            name: winter-intensive
     journal:
         dailyDomain: daily
         name: journal

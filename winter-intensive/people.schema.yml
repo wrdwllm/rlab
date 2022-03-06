@@ -1,0 +1,10 @@
+version: 1
+imports: []
+schemas:
+  - id: people
+    title: People
+    namespace: true
+    parent: root
+    template:
+      id: admin.template.people
+      type: note

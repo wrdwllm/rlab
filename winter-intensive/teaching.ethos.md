@@ -7,7 +7,7 @@ created: 1646096436044
 ---
 
 ## This is an experiment
-This is a [[design experiment|learning.concepts.experiment]]. We are investigating new concepts. We will make mistakes. Our design may be incompete or may not work at all. The key outcome is your learning, which is captured in your [[reflective journal|assessment.reflective-journal]].
+This is a [[design experiment|learning.concepts.experiment]]. We are investigating new concepts. We will make mistakes. Our design may be incompete or may not work at all. The key outcome is your learning, which is captured in your [[reflective journal|course.assessment.reflective-journal]].
 
 This is also a teaching experiment. We have done our best to prepare a structure and learning materials to guide you, but we may fail too. To compensate, we mark generously. If we can see your work satisfies the [[Outcomes|learning.outcomes]], we will give you appropriate credit.
 
