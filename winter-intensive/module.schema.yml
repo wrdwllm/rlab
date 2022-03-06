@@ -1,0 +1,17 @@
+version: 1
+imports: []
+schemas:
+  - id: resource
+    title: Resource
+    desc: ""
+    parent: root
+    children:
+      - module
+  - id: module
+    title: Module
+    desc: ""
+    parent: resource
+    namespace: true
+    template:
+      id: admin.template.module
+      type: note

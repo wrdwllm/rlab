@@ -6,4 +6,4 @@ updated: 1646543301266
 created: 1646543287226
 ---
 
-![[learning.outcomes]]
+![[course.outcomes]]

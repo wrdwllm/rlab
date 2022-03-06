@@ -1,9 +1,9 @@
 ---
-id: 3on8pi4l4qkzy9kqxqi7q1o
-title: Module title
+id: srt5semhigmnydyk875g2mp
+title: Working in Groups
 desc: Module description
-updated: 1646552765627
-created: 1646546688336
+updated: 1646553010154
+created: 1646553010154
 ---
 
 ## Overview

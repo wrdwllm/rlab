@@ -1,10 +1,21 @@
 ---
 id: 0JQYFavrgofLMxoIKm6H5
-title: Root
+title: ABPL10001: Placeholder
 desc: ''
-updated: 1646132367113
+updated: 1646554377607
 created: 1645509747928
 ---
-# Welcome to the course
+## About
+- Course description
 
-Welcome to our course
+## Structure
+- [[course]]
+- [[learning]]
+- [[people]]
+- [[resource]]
+
+
+## How to use this website
+  - Replaces Canvas for teaching
+    - Subject Overview, Assignments, standard resources, contacts, etc. remain in use.
+  - About Dendron
