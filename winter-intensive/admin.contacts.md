@@ -2,7 +2,7 @@
 id: xsnodvr75blxygsljmeuvkn
 title: Contacts
 desc: ''
-updated: 1647063940839
+updated: 1647073338232
 created: 1646544873219
 ---
 
@@ -10,8 +10,8 @@ created: 1646544873219
 
 ## [Rochus Hinkel](mailto:rochus.hinkel@unimelb.edu.au)
 
-  - A/Prof for Architecture and Design at the University of Melbourne
-  - Email: rochus.hinkel@unimelb.edu.au
+- A/Prof for Architecture and Design at the University of Melbourne
+- Email: rochus.hinkel@unimelb.edu.au
 
 ## Andrew Gay and [Tim Uebergang](tu@unimelb.edu.au)
 
