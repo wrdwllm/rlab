@@ -2,7 +2,7 @@
 id: dg1qjs5tlki8ymlh0pg2qj6
 title: '2022-03-06'
 desc: ''
-updated: 1647061499095
+updated: 1647064670615
 created: 1646543494838
 traitIds:
   - journalNote
@@ -82,4 +82,394 @@ Progress meeting with William and Ashley
 - Next meeting
   - Discuss details
 
-## Minutes
+## Transcript
+
+- William Ward: yeah good, how are you sorry about.
+- William Ward: Having which is missing.
+- Ash Davis: I am kind of stuffing my face of itself.
+- William Ward: that's okay.
+- William Ward: um.
+- William Ward: So I guess.
+- William Ward: yeah I guess it really just catching up and maybe outlining some stuff that we need to do, and I also wanted to show you.
+- William Ward: And I tear I had for the maybe like a website for teaching that we couldn't use um I think that's also helping to organize.
+- William Ward: To do um.
+- Ash Davis: Did you talk to Stanislav or was it.
+- William Ward: um we didn't get around to it.
+- William Ward: But.
+- Ash Davis: I did.
+- William Ward: Let them know that we were working on it and that we should.
+- sing.
+- William Ward: Something i'm sorry i'm recording the meeting because zoom has like automatic transcription and I.
+- William Ward: thought that would be good.
+- William Ward: But I can turn it off.
+- Ash Davis: No, not at all I just wonder if it'll touch like Chilean sounds.
+- William Ward: Maybe, but I think hopefully it'll pick it up.
+- um.
+- Ash Davis: that's all good.
+- William Ward: um.
+- William Ward: I guess one thing we can do is just review this task list that i've made.
+- William Ward: On.
+- William Ward: i'll just.
+- William Ward: Is would be like easy for you, if I share my screen was a bit.
+- Ash Davis: mean I was trying to remember to bring my computer, but I had a really early flight meeting today so.
+- William Ward: let's.
+- Ash Davis: let's do it and we'll see how we get.
+- Ash Davis: Because it is mostly about us just like talking through some stuff if you need to be.
+- Ash Davis: looking like.
+- Ash Davis: I get to the to do list by myself, but I just.
+- Ash Davis: Like talks and stuff out.
+- William Ward: yep um well yeah do you have anything that you want to mention, first up.
+- Ash Davis: No, no, no um.
+- Ash Davis: I guess My big things were like I would really like to square up some meetings.
+- Ash Davis: soon.
+- Ash Davis: huh I think this is kind of like a really good time to do that to get some people's input and or just advice, but other than that and really.
+- William Ward: um.
+- William Ward: Well yeah I kind of need some tasks for that, so I guess, we could.
+- William Ward: figure out.
+- William Ward: Just plan to make a list of people, we want to contact and then figure out like a time frame for how we might do and.
+- William Ward: That would be so um.
+- William Ward: yeah well, one thing I want to do is um should be set up like recurring meetings so like every fortnight, maybe.
+- William Ward: yeah.
+- Ash Davis: This word or after.
+- William Ward: To like with Sunday 731 yeah i'll just send an invite and we can adjust if we need to but I guess fortnightly would.
+- William Ward: be good.
+- Ash Davis: yeah I think.
+- Ash Davis: I don't think enough of what happened in the week just yet, but maybe that might even increase later on.
+- William Ward: yeah I think we're just.
+- William Ward: plugging away at the moment.
+- i'm.
+- William Ward: Going I.
+- William Ward: am using this thing called 10 drawn.
+- William Ward: And stance, I really likes it.
+- William Ward: i'm using it at the moment to build like a web site, or like a wiki for the lab.
+- William Ward: um so I guess the good thing is, you can have all these notes, and you can have templates and it makes it really easy to publish it to the web.
+- William Ward: And you can't really do too many fancy things with it, but you can have like images it's really easy to format.
+- William Ward: And I made a website for us but it's not working, but.
+- William Ward: Like you can kind of see it.
+- William Ward: lays everything out in like a hierarchy and I thought we could have like well the core stuff like schedules or a view um you can.
+- William Ward: Have like an admin folder to hide from students.
+- William Ward: keep things like contacts meeting minutes and I guess what we're doing.
+- William Ward: stuff.
+- William Ward: is having like a separate.
+- William Ward: How do I keep the teaching so.
+- William Ward: we're making one for design teaches.
+- And I guess.
+- William Ward: What you can do is.
+- William Ward: Just like draw from the lab content, so you can just pull in.
+- William Ward: An embed projects and then write.
+- William Ward: Some context for students, depending on the course.
+- William Ward: I guess that would be.
+- William Ward: good for us, because we could have like weekly modules and then pull in like.
+- William Ward: Different projects and different like gods to collaboration.
+- William Ward: And I think it's like a good.
+- William Ward: tool for just organizing notes.
+- Ash Davis: yeah it seems like it like it doesn't have yeah it doesn't have to be fancy but I really like that it's all at once, what a spot.
+- William Ward: yeah and it's much better than.
+- William Ward: canvas it's so much easier to edit.
+- William Ward: and change.
+- William Ward: um yeah so.
+- William Ward: I mean.
+- William Ward: We can start using it.
+- William Ward: And if it's not working, we can abandon it.
+- William Ward: Would you be okay to just start using it, and I could.
+- William Ward: show you how to set it off and stuff.
+- Ash Davis: that's totally fine I mean what being outside of canvas also does is like, if you want to send that to our like industry partners or collaborators it's not locked inside of the university.
+- William Ward: yeah I think it's and it's really good to have it outside of.
+- William Ward: Diversity in general, because people can look at it.
+- William Ward: it's really good like proof of concept for using this as well, I.
+- William Ward: like it.
+- Ash Davis: As a as a very, very small side note, maybe we just need to cover, but to make sure that there's no like legality to sharing student work.
+- William Ward: yeah I think the good thing is, we can just hide it.
+- Ash Davis: From ashes.
+- Ash Davis: Can you make anything like.
+- Ash Davis: Like maybe password protected, just so that like only students can get in to see other students work, but then maybe our more curated stuff sits in public domain, I don't know something that we can set up later, but just want to make sure that we're not doing something unethical.
+- William Ward: yeah maybe maybe we can do some more.
+- William Ward: Formal teaching stuff through canvas.
+- William Ward: So we can protect it, but um I think it's it's mainly like student work can be like the identified and annotated.
+- Ash Davis: Okay, and i'm sure it's not something that.
+- William Ward: Definitely, we can make clarified.
+- Yes.
+- William Ward: cool Well, I can continue working i'm not.
+- William Ward: me.
+- William Ward: yeah and you can also do stuff like tasks which is really helpful um.
+- William Ward: it's more like page specific probably stuff that.
+- William Ward: isn't going on the.
+- list.
+- William Ward: So.
+- William Ward: The other thing is, I really like mirror.
+- William Ward: i'm i've been using it.
+- William Ward: Using it at all.
+- William Ward: I just I think it's very convenient, so I guess my inclination is to abandon.
+- William Ward: The cycle of work to maintain, but it could be.
+- Good for student sees.
+- Ash Davis: yeah.
+- Ash Davis: Sorry, good.
+- William Ward: Well, maybe yeah i've had some success with it in other subjects.
+- William Ward: So maybe we can enable it.
+- William Ward: But just something we really use ourselves.
+- Ash Davis: yeah I like that, I mean I, and I do think that's all play by ear like if they gravitate towards it absolutely because I had when I was doing the 21st century had one group that did in one group that like what was the small one, so we really didn't need anything they were great.
+- I just didn't.
+- William Ward: know.
+- Ash Davis: If we need it, we could.
+- Ash Davis: use it yeah.
+- William Ward: i'm cool so I.
+- Ash Davis: guess the main.
+- William Ward: Like the big topics.
+- William Ward: Is.
+- William Ward: Like finalizing the schedule.
+- William Ward: And like kind of the scope and assessment.
+- William Ward: Of the course.
+- Ash Davis: To do.
+- William Ward: or just going to to address that so we can maybe do like a little presentation Ferguson, Stanislav and just talking.
+- William Ward: About like.
+- William Ward: What we're trying to achieve with the course and how we envision it planning out i'm just so they can let us know if it will work and.
+- Ash Davis: yeah crazy.
+- yeah.
+- William Ward: So maybe we can prepare like a little presentation, or something.
+- Ash Davis: Before I feel like I can really move forward with that.
+- Ash Davis: is like maybe talking to the guy there's a system garden.
+- Ash Davis: What because you know I think first and foremost, if we're like okay what you got someone who's on board.
+- Ash Davis: For a place for it to live if it's a thing if it's one thing it's multiple things whatever like that's kind of like a really big key, I think, to me, because elsewise it's going to be everyone creates their own prototype.
+- Ash Davis: No one's gonna want it after they're done, and then we like throw some stuff away.
+- William Ward: yeah.
+- William Ward: So it's kind of like.
+- William Ward: It.
+- William Ward: would be it'd be useful in the future.
+- William Ward: I can you can be like.
+- William Ward: How long can we keep it there, I guess.
+- Ash Davis: yeah because, because if it's if.
+- Ash Davis: We don't plan up that bit then it's just going to be what happened with like, for example, the design build I did.
+- Ash Davis: We made the Spanish to that nobody wanted it and I think it just got thrown away.
+- Ash Davis: So.
+- Ash Davis: I think, having a place for anything to Liz is really key and then and then that kind of like to me.
+- Ash Davis: is like the end state, and you can kind of work backwards from that, because if it does go in the system garden like being familiar with the system scarred is going to be a big part of our schedule.
+- Ash Davis: So I kind of want to think if we can sort of suss out what the ending is gonna feel like the schedule will kind of fall into place a little bit easier, but but.
+- William Ward: yeah so we're like building towards.
+- Ash Davis: yeah you know where are our endpoint or goal is.
+- William Ward: yeah so we kind of have to do that.
+- Ash Davis: I mean we don't make it easier.
+- William Ward: yeah we have a draw we have like a reasonable idea of schedule assessment.
+- William Ward: So that's enough to start talking to those people, I think.
+- William Ward: yeah and then we can.
+- William Ward: I guess also took the records and Stanislav on the side before it gets to.
+- William Ward: Complete.
+- William Ward: I guess another thing, maybe would be, it would be good to get in contact with the FAB lab earlyish maybe around the same time as the systems can.
+- William Ward: just see if there's any restrictions.
+- William Ward: And if they can accommodate.
+- Ash Davis: Absolutely.
+- William Ward: And like what was what they can provide in terms of materials assistance like.
+- William Ward: Time over the winter break.
+- Ash Davis: I don't even know if they have different that it would probably have a different schedule for.
+- Ash Davis: off semesters.
+- William Ward: yeah i'm definitely use the problem.
+- William Ward: semesters so.
+- William Ward: Hopefully that's.
+- William Ward: Not that unusual.
+- Ash Davis: yeah like you said, we just need to clarify.
+- William Ward: yeah yeah.
+- William Ward: um and yeah just send them like a really.
+- William Ward: brief summary of.
+- William Ward: The project that they can.
+- William Ward: Understand pretty quickly.
+- William Ward: um.
+- William Ward: I guess this comes off to we've ironed out all of the details, but just like materials and budget.
+- yeah.
+- Ash Davis: We can I mean.
+- Ash Davis: Again, going off of what I did like we were able to get like two grand I think out of like the school of architecture.
+- Ash Davis: And the other one like because we did two within one semester one was for clients they had a budget was really small but, like you know it was outside money.
+- Ash Davis: In because I know you make comments on the like kind of very draft scheduled that I was thinking.
+- Ash Davis: But I think if we could do a small project in the beginning.
+- Ash Davis: We.
+- Ash Davis: were in charge of like providing those materials so that's there's no barriers there and then get straight into building.
+- Ash Davis: Like i'm talking like a sheet of plywood and they have like make make a thing.
+- Ash Davis: But then, for the actual main project, I think we could possibly condition the school for some money.
+- Ash Davis: Or maybe even the system garden might have some funding.
+- Ash Davis: So I think that's again like who, who is it for and who can we talk to, and like do they have any kind of pots.
+- William Ward: yeah.
+- Ash Davis: And I Stanislav is at least good at suggesting I don't know.
+- William Ward: yeah.
+- William Ward: um.
+- William Ward: Yes.
+- Ash Davis: And like you could do you could do a lot of damage, even with just two grand because what we also get to do is for students to ask companies for donations just really fun.
+- Ash Davis: which they usually do as long as you can say your name will be on a plaque like your you know and written up in maybe like.
+- Ash Davis: You know our studio book, but we can call it like some kind of university publication like make it sound much better than it is your name will be included in this and.
+- William Ward: yeah that sounds good, I guess, we can bring some of us to get that funding and.
+- William Ward: see what might be possible and then.
+- William Ward: Potentially do all of them um I guess yeah Stanislav or someone else might be.
+- William Ward: Best to like asked about the budget, I know he's done them before, but he doesn't seem to be particularly good at it.
+- Ash Davis: But.
+- William Ward: yeah we can definitely.
+- William Ward: Think asked him any might be able to suggest.
+- William Ward: Someone else to ask about that.
+- William Ward: indie rock is normal.
+- Ash Davis: yeah well, I mean with with small enough projects like the students should be able to handle it it's it's it's really good experience for them.
+- Ash Davis: But as long as we say okay we've secured X amount of dollars after that it's like all to you guys, so that you allocate funds appropriately and if you're short then like get creative or go ask for donations like.
+- William Ward: yeah i'm.
+- William Ward: yep.
+- William Ward: What one thing I kind of.
+- William Ward: I was writing up some of what we were talking about in terms of like the ethos of the course and I guess emphasizing that it's a design experiment and things might go wrong and we're not going to be too harsh on them if if.
+- William Ward: So I think that's a good.
+- William Ward: Good black.
+- William Ward: framework for them to operate in so they're not too stressed about.
+- Ash Davis: Oh, and and yeah and I think we had that conversation about like i'm getting worried about marks if there was like a central project and, like how did they get their individual marks and like I mean.
+- Ash Davis: I don't know.
+- Ash Davis: It sounds like a bad thing, but things will go wrong and every design build up done like things will go wrong and that's actually fine and that's just you are very creative like you'll figure it out.
+- Ash Davis: it's okay.
+- William Ward: yeah and even if you fail it's it's a good learning experience i'm it's.
+- William Ward: About reflection and wanting rather than getting like a nice.
+- William Ward: outcome that's like perfect and pulled off.
+- William Ward: Exactly it's as you wanted to.
+- Ash Davis: Yes, yeah.
+- William Ward: Good lesson.
+- Ash Davis: Efficient like if if nothing works like if they put in their heart and soul and nothing works that's totally fine.
+- Ash Davis: If they can document well how it failed, I mean that's just as good like what you don't know or what the markets on this as good as what does.
+- William Ward: yeah yeah.
+- Ash Davis: Totally like i'm actually have that plan site.
+- William Ward: and
+- William Ward: collaborators, should we.
+- William Ward: should be yeah I guess we kind of want to start talking to people like this month in the next few weeks.
+- William Ward: So I guess.
+- William Ward: Systems got in person, we definitely talk to.
+- William Ward: About a CDA guy.
+- Ash Davis: That left.
+- yeah.
+- Ash Davis: yeah.
+- William Ward: me neither.
+- William Ward: bonnie works for it's like aspect some interest in.
+- William Ward: Funding things or the kind of these research projects, I don't I don't know how much but sounds like definitely got some contacts, though.
+- William Ward: um but.
+- William Ward: So I feel like.
+- William Ward: Our studio is to someone my chatting to some really need.
+- William Ward: much in the way of like a formal presentation, or anything like that.
+- Ash Davis: I think he would actually be probably the best to talk to first justice in you know he might really like course correct us for.
+- William Ward: You know.
+- William Ward: I would also like to add, I have one content.
+- Ash Davis: One contact that I made at the city of Melbourne.
+- Ash Davis: Is an ecologist and there's also the woman that.
+- Ash Davis: Stanislav brought in for us during my faces I can't remember her name, but I think she would be interested.
+- William Ward: yeah oh my.
+- Ash Davis: gosh she did she was a part of the like ecological considerations for the metro tunnel project.
+- William Ward: yeah I think I remember sitting in on that.
+- yeah.
+- William Ward: um.
+- William Ward: So, I guess, we can start to fill that out somewhere and.
+- William Ward: contact details and start getting in touch with people.
+- Ash Davis: Because I think like if we can kind of shoot for.
+- Ash Davis: very vaguely 50% designer 50% ecology.
+- Ash Davis: I think that that's like what the.
+- Ash Davis: At least the research cohort is is about.
+- William Ward: yeah.
+- William Ward: yeah so it's like truly collaborative.
+- Ash Davis: Shooting for like you know pie in the sky kind of an idea, but like generally speaking.
+- Ash Davis: As many people on the planet side is guys are on the design side.
+- William Ward: yeah yeah um.
+- William Ward: might also be good just now to like throw out some deadlines.
+- William Ward: We don't we don't really have concrete dates, but I guess.
+- William Ward: Maybe like by the end of the month, like a web site.
+- William Ward: And it's like a pretty.
+- William Ward: Comprehensive and not overly detailed schedule.
+- William Ward: doesn't seem doable.
+- Ash Davis: doesn't doable and actually thinking if you're heading up the website, I can try and work on of you know.
+- Ash Davis: presentation to.
+- Ash Davis: will say you know, like maybe.
+- Ash Davis: Our guy.
+- Ash Davis: Systems garden go.
+- Ash Davis: And FAB lab.
+- Ash Davis: Like because those are kind of like I feel like I can make one presentation for those guys and then to have that in the ready in the next maybe two weeks, and at the same time we're contacting them and say, maybe the next two weeks to the end of the month, we can get some meetings out.
+- William Ward: Was towards the end of the month yeah so like in the next two weeks, I think, and get on that presentation together and then.
+- Ash Davis: By the end of the month we've had.
+- Ash Davis: Some meetings.
+- William Ward: yep.
+- William Ward: Okay.
+- William Ward: cool and we should probably speak to record some standards, like in the next two weeks as well.
+- William Ward: yeah.
+- William Ward: And I guess.
+- William Ward: So sort of by May early June, having the details ironed out.
+- William Ward: I guess, probably by.
+- William Ward: After the end of the month, they can we be we kind of, I suppose, have to pitch it to the MSP and just make sure it's like approved and I guess, we can do that with like a.
+- William Ward: Draft the philly resolved schedule demonstrate that we've been speaking to people and that there's some interest and a half, like that website.
+- Ash Davis: yeah I think we also want to kind of like we, we need to really iron out how we're thinking about the assessment when we present tennis do you think because, like So what did you think about my suggestion of.
+- Ash Davis: Like their student journalists more like an as bill.
+- William Ward: yep um is it.
+- William Ward: So would it be like a reflection on what's being built order to keep.
+- William Ward: you up to date.
+- Ash Davis: So, like my.
+- Ash Davis: Like my reasoning behind that is when i've done these before it's like there is a set of drawings that we've that we use to build two and it's one and, like maybe one or a couple people draft.
+- Ash Davis: But like when I if I want to take that book and go to a job interview for example it's like yeah I worked on this, but like none of those drugs are mine and like, then, that gets kind of weird you're like yeah that's me in the picture holding a hammer.
+- Ash Davis: But if it was we have one studio book and that was kind of the master set of drawing so we're actually built to.
+- Ash Davis: Again, like things are going to go wrong you're going to have like this work this didn't work, so you each student individually produces a.
+- Ash Davis: smaller amount, maybe I don't know but they produce their own drawings like they have to have drafted drawings were showing that they can do architectural drawings that are.
+- Ash Davis: reflective of what happened, through the build so it's like yes, the master said this detail but didn't actually work.
+- Ash Davis: We had to fix it this way, and like each student has to produce that they were aware of what changed and understand how design changed through build, which is kind of the point and that each student's booklet is their own work there's no, you know copy paste.
+- William Ward: yeah I think that's a good idea and.
+- William Ward: makes it easy.
+- William Ward: To pick up like the best.
+- Ash Davis: Exactly.
+- William Ward: I think I saw specs for the studio booklet so they're not really duplicating work.
+- William Ward: good job, like a template for the studio booklet.
+- William Ward: that's not.
+- William Ward: Sorry.
+- Ash Davis: yeah yeah, I think, maybe we can.
+- Ash Davis: Because it is the intensive like maybe this is what we were saying before like if we can do a lot of behind the scenes work.
+- Ash Davis: And just set them up really well like yeah I think that's that's fine I don't really care, a lot of students are like tell me what I need to do it's like don't show me what you think.
+- William Ward: yeah I mean the more you can give them, I think, the less they can depend on that kind of attitude.
+- Ash Davis: We have that's it, I mean that's like a detail of like that's way down the line we could even wait until the student starts to suss that out.
+- Ash Davis: But yeah and like you'd also get I would hope the intent is that you would get whoever worked on and it.
+- Ash Davis: Apart more that shows up more in their booklet and then we're able to see who was really involved who actually understands the project because.
+- Ash Davis: doing it as an as built rather than the untested design is like okay were you were you there when we built it like you understand why we had to changes like you can look, you can see someone's trying to understand if they understood or if they were just copying and pasting.
+- yeah.
+- William Ward: Alright, so I guess, we have like a rough schedule, in particular, particularly we know what we need to do in the next two weeks so.
+- I guess.
+- William Ward: What I can do is just start to outline some of that stuff and make like.
+- and
+- William Ward: Maybe reflect some of those tasks.
+- William Ward: Like meeting agendas and stuff.
+- William Ward: and
+- William Ward: represent that timeframe more formally so we know what we're doing.
+- Ash Davis: yeah yeah.
+- William Ward: i'm I think i'm happy to handle the kind of scheduling and top level organization and so.
+- William Ward: As you're working around your job it's there's just like some clearly defined tasks that you can make time for.
+- William Ward: You don't have to worry about fitting in with everything else that's going on.
+- Ash Davis: Like it like it do we know I guess it's all speaking of that just really quick, because I do have to pop off i'm.
+- Ash Davis: doing now, what kind of days are going to be in the studio like I vaguely said, like Oh, you know, maybe two days in the week one Saturday like and then Saturdays but like, how do we know what that looks like.
+- William Ward: um I guess it's something we should all stop and smell.
+- William Ward: yeah yeah cuz i'm not 100% sure or thoughts given to you by the university or.
+- William Ward: yeah.
+- Ash Davis: cuz I know if it was during a regular semester, like most of them start at 630 or six whatever it like totally fine like I can be I can be there, but if it's the intensive and it's like oh afternoons between whatever whatever it was like now, we have to kind of coordinate that's who.
+- Ash Davis: who's gonna be there, whatever.
+- William Ward: yeah I mean i've from what i've seen that's like no are pretty flexible with changing timing based around on the tutors work schedules um.
+- William Ward: yeah I.
+- William Ward: think we can.
+- William Ward: get some clarification on.
+- Ash Davis: That I mean just maybe for my peace of mind, like that's kind of been on my mind is.
+- um.
+- William Ward: yeah well I guess.
+- William Ward: Maybe for the next.
+- William Ward: discussion, we can get into the details a bit more, I guess, we can even a sunny day.
+- yeah.
+- William Ward: and
+- Ash Davis: right there.
+- William Ward: i'm fine.
+- Ash Davis: Okay yeah sweet like.
+- William Ward: i'll kind of type that up more formally and make some tasks and stuff and start to do with the organization things but.
+- William Ward: I think that it's a something to work towards.
+- William Ward: And i'm.
+- William Ward: working as a teaching assistant for one of standard size courses, but it's quite flexible and probably a bit dodgy that i'm getting paid.
+- William Ward: To do stuff that's not particularly related to teaching, but whatever.
+- William Ward: fits together, which is really nice.
+- Ash Davis: that's good, because you don't feel like you're wasting I think that's really great.
+- William Ward: yeah i'm kind of kind of in a way of getting paid to prepare this now, which is yeah.
+- William Ward: Well i'll make a meeting and.
+- Ash Davis: yeah that's great.
+- Ash Davis: So it means now we're calling this thing.
+- William Ward: yeah i'll come up with some ideas i've just been playing.
+- Ash Davis: Winter intensive.
+- Ash Davis: Maybe, something that doesn't sound.
+- Ash Davis: it's so daunting.
+- William Ward: yeah yeah.
+- William Ward: gentle gentle winter intensive.
+- Ash Davis: I like.
+- William Ward: um i'll let you get back to it.
+- William Ward: yeah catch up soon.
+- Thanks.
+- Ash Davis: yeah.

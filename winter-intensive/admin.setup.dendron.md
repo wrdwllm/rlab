@@ -2,7 +2,7 @@
 id: wgcpbxt6jiq9b4vp8dnqvho
 title: Dendron
 desc: ''
-updated: 1647063489601
+updated: 1647063889865
 created: 1647062070862
 ---
 
@@ -51,4 +51,5 @@ created: 1647062070862
       3. [Link to a note](https://wiki.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2/) using syntax `[[note.file.name]]`
       4. Open Markdown preview window using `> Dendron: Show Preview`
       5. Use [GitHub Flavoured Markdown](https://wiki.dendron.so/notes/8DCgctK-RMD4EeHjC5_hI/)
-4. Sync to repository (see Step 8)
+      6. Resolve display issues with `> Dendron: Reload Index` and `> Developer: Reload Window`
+4. Sync to repository (see Step 8 in previous section)

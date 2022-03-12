@@ -2,7 +2,7 @@
 id: 0mxz4r441ogkzdnijg5tgng
 title: '2022-03-12'
 desc: ''
-updated: 1647061449246
+updated: 1647063955277
 created: 1647060542693
 traitIds:
   - journalNote
@@ -10,7 +10,7 @@ traitIds:
 
 ## Rochus Hinkel
 
-![[admin.contacts]]
+![[admin.contacts#rochus-hinkel:#*]]
 
 ### Subject overview
 

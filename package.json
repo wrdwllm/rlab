@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.83.0"
+    "@dendronhq/dendron-cli": "^0.85.0"
   },
   "repository": {
     "type": "git",
