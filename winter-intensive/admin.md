@@ -2,9 +2,9 @@
 id: b5nis4nkgn78reyxzrwl0pk
 title: Admin
 desc: ''
-updated: 1646541525716
+updated: 1647065066924
 created: 1646541518019
-published: false
+published: true
 ---
 
 This private domain contains administrative notes for the course organisers.
