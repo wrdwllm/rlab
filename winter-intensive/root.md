@@ -1,6 +1,6 @@
 ---
 id: 0JQYFavrgofLMxoIKm6H5
-title: ABPL10001: Placeholder
+title: 'ABPL10001: Placeholder'
 desc: ''
 updated: 1646554377607
 created: 1645509747928
@@ -9,7 +9,7 @@ created: 1645509747928
 - Course description
 
 ## Structure
-- [[course]]
+- [[subject]]
 - [[learning]]
 - [[people]]
 - [[resource]]

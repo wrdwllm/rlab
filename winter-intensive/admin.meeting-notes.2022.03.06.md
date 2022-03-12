@@ -2,7 +2,7 @@
 id: dg1qjs5tlki8ymlh0pg2qj6
 title: '2022-03-06'
 desc: ''
-updated: 1646705008690
+updated: 1647061499095
 created: 1646543494838
 traitIds:
   - journalNote
@@ -28,9 +28,9 @@ Progress meeting with William and Ashley
   - Identify important tasks that require planning
     - Finalise schedule, assessment, time-frame
       - [ ] Presentation for Rochus and Stanislav?
-      - [ ] Talk to person who runs Systems Garden 
+      - [ ] Talk to person who runs System Garden
         - Feasibility, will it be useful in the future, how long can we keep it there (maintaining is critical, define an end state)
-        - [ ] Plan out design build in collaboration with Systems Garden
+        - [ ] Plan out design build in collaboration with System Garden
         - [ ] Get familiar with Systems Garden and limitations
         - [ ] Define a goal for the design build
     - Organising FabLab use

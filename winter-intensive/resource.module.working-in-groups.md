@@ -9,8 +9,8 @@ created: 1646553010154
 ## Overview
 - What does this module cover?
 - What skills will you learn?
-  - How do they satisfy the [[learning outcomes|course.outcomes]]?
-  - How can you use them for your [[assessment|course.assessment]]?
+  - How do they satisfy the [[learning outcomes|subject.outcomes]]?
+  - How can you use them for your [[assessment|subject.assessment]]?
 - How long will this module take?
 
 ## Structure

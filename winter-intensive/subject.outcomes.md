@@ -8,5 +8,5 @@ created: 1646096336029
 
 - [ ]: Populate with learning outcomes that reflect our ethos
 
-![[course.introduction]]
+![[subject.introduction]]
 
