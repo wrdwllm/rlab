@@ -2,7 +2,7 @@
 id: wgcpbxt6jiq9b4vp8dnqvho
 title: Dendron
 desc: ''
-updated: 1647063889865
+updated: 1652742993142
 created: 1647062070862
 ---
 
@@ -19,12 +19,10 @@ created: 1647062070862
    2. Accept invitation to the [winter-intensive](https://github.com/wrdwllm/winter-intensive) repository
 5. [Link GitHub to VS Code using the GitHub extension](https://code.visualstudio.com/docs/editor/github)
 6. Install required extensions
-   1. [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-   2. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   3. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-   4. [Dendron Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=dendron.dendron-markdown-shortcuts)
-   5. [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-   6. [Dendron Paste Image](https://marketplace.visualstudio.com/items?itemName=dendron.dendron-paste-image)
+   1. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+   2. [Dendron Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=dendron.dendron-markdown-shortcuts)
+   3. [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+   4. [Dendron Paste Image](https://marketplace.visualstudio.com/items?itemName=dendron.dendron-paste-image)
 7. Initialise a remote Dendron vault using the GitHub link
    1. Run `> Dendron: Add Vault`
    2. Select `remote`
