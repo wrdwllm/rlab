@@ -89,8 +89,8 @@ publishing:
     siteRootDir: docs
     siteUrl: 'https://wrdwllm.github.io'
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: R_Lab
+        description: Semester 2 2022
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
