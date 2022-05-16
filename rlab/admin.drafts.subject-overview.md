@@ -2,73 +2,41 @@
 id: 3oclimf66vlhqqlkiz2gqen
 title: Subject Overview
 desc: ''
-updated: 1652709398457
+updated: 1652742446933
 created: 1652708352672
 ---
 
-- Design/Build
-  - Class designs, scopes, and builds a project
-    - Design
-      - Brief
-      - Agonistic decision-making
-        - Generative conflict
-      - Prototyping
-      - Charettes
-    - Scoping
-      - Budget
-      - Materials
-      - Schedule
-    - Build
-      - Construction
-      - Installation
-      - Lifecycle
-  - University or local government client
-    - Engage with collaborators and sponsors
-- Group work
-  - Limit time spent designing and debating concepts
-  - Fast charettes to decide directions
-- Robots
-  - Students can implement and/or suggest uses
-  - Automated or semi-supervised using robotic arms
-  - Construction assisted by augmented reality, e.g. [HoloLens](https://www.microsoft.com/en-us/hololens)
-    - See research by Dan Parker
-  - Monitoring using sensors
-    - Data for research
-    - Responsive design elements
-  - Measuring using LIDAR
-    - See [work by Alexander Holland and Julian Rutten](https://wiki.deepdesignlab.online/notes/880skyq9t8yhryhcdq2i4h5/)
-      - Share workflows and research
-    - Scans as a base for design
-      - Near-surface ecologies grant proposal
-- Collaborators
-  - System Garden
-  - Ecologists
-    - Alison Haynes
-  - Deep Design Lab
-    - Dan Parker
-    - Julian Rutten
-    - Alexander Holland
-    - Bonnie Gordon
-  - Robotics Lab
-  - FabLab
-  - Architecture/Design
-    - Aspect Studio
-- Teaching
-  - Content prepared and delivered using Dendron
-  - Contact hours in Robotics Lab
-  - Lecture Topics
-    - Technical Skills
-      - Robotics Lab
-        - Robotic arms for fabrication
-      - Deep Design Lab
-        - LIDAR
-        - HoloLens
-    - Conceptual Learning
-      - Interspecies Design
-        - Stanislav Roudavski
-      - Ecology
-        - Alison Haynes
-      - More-than-Human Place
-        - William Ward
-        - Julian Rutten
-  - Asynchronous learning using Wiki
+## Goals
+
+### Learning Outcomes
+
+### Deep Design Lab
+
+## Components
+
+## Implementations
+
+### [[admin.drafts.subject-overview.design-build]]
+
+- Adapted from our draft proposal
+- Class works as a group
+  - Initial proposals in groups
+  - Individual reflective journal
+
+#### Schedule
+
+- 4 weeks research and design
+- 2 weeks scoping
+- 4 weeks build
+- 2 weeks reflection
+
+#### Assessment
+
+- Assessment
+  - Pre-Project
+    - Condensed design task producing useful tool
+  - 
+- Benefits
+  - Develop advanced collaborative skills
+    - Supported by teaching content
+  - Group work allows serious engagement with all phases

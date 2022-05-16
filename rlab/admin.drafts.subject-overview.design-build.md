@@ -1,0 +1,74 @@
+---
+id: epgvtg87na0saczvanx48tx
+title: Design/Build
+desc: ''
+updated: 1652741845152
+created: 1652741841121
+---
+
+- Design/Build
+  - Class designs, scopes, and builds a project
+    - Design
+      - Brief
+      - Agonistic decision-making
+        - Generative conflict
+      - Prototyping
+      - Charettes
+    - Scoping
+      - Budget
+      - Materials
+      - Schedule
+    - Build
+      - Construction
+      - Installation
+      - Lifecycle
+  - University or local government client
+    - Engage with collaborators and sponsors
+- Group work
+  - Limit time spent designing and debating concepts
+  - Fast charettes to decide directions
+- Robots
+  - Students can implement and/or suggest uses
+  - Automated or semi-supervised using robotic arms
+  - Construction assisted by augmented reality, e.g. [HoloLens](https://www.microsoft.com/en-us/hololens)
+    - See research by Dan Parker
+  - Monitoring using sensors
+    - Data for research
+    - Responsive design elements
+  - Measuring using LIDAR
+    - See [work by Alexander Holland and Julian Rutten](https://wiki.deepdesignlab.online/notes/880skyq9t8yhryhcdq2i4h5/)
+      - Share workflows and research
+    - Scans as a base for design
+      - Near-surface ecologies grant proposal
+- Collaborators
+  - System Garden
+  - Ecologists
+    - Alison Haynes
+  - Deep Design Lab
+    - Dan Parker
+    - Julian Rutten
+    - Alexander Holland
+    - Bonnie Gordon
+  - Robotics Lab
+  - FabLab
+  - Architecture/Design
+    - Aspect Studio
+- Teaching
+  - Content prepared and delivered using Dendron
+  - Contact hours in Robotics Lab
+  - Lecture Topics
+    - Technical Skills
+      - Robotics Lab
+        - Robotic arms for fabrication
+      - Deep Design Lab
+        - LIDAR
+        - HoloLens
+    - Conceptual Learning
+      - Interspecies Design
+        - Stanislav Roudavski
+      - Ecology
+        - Alison Haynes
+      - More-than-Human Place
+        - William Ward
+        - Julian Rutten
+  - Asynchronous learning using Wiki
