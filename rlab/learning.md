@@ -2,8 +2,8 @@
 id: xvdlan0jzanz0622e1s7yki
 title: Learning
 desc: ''
-updated: 1646539258747
+updated: 1652707120771
 created: 1646539142478
 ---
 
-This domain contains resources that support your learning.  
+This domain contains weekly outlines for the subject.  

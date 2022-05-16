@@ -1,7 +1,9 @@
 version: 1
 imports: []
 schemas:
-  - id: root
-    children: []
-    title: root
+  - id: learning
     parent: root
+    children:
+      - pattern: 'learning.week-[0-9][0-9].md"'
+        template: admin.template.week
+        

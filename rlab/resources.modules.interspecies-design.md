@@ -1,9 +1,9 @@
 ---
-id: 3on8pi4l4qkzy9kqxqi7q1o
-title: Module
+id: yt7eaylukajwfdb0zxh18lm
+title: Interspecies Design
 desc: Module description
-updated: 1652708141205
-created: 1646546688336
+updated: 1652674173864
+created: 1652674170103
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ created: 1646546688336
   - [[1.1: Sub-topic 1|admin.template.module#sub-topic-1]]
   - Link to notes if needed
 
-## Content
+## Content 
 
 ### 1. Topic 1
 
@@ -39,3 +39,7 @@ This is an embedded note: ![[learning]]
 [^1]: This is a footnote.
 
 ## References
+
+
+
+
