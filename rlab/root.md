@@ -1,21 +1,16 @@
 ---
 id: 0JQYFavrgofLMxoIKm6H5
-title: 'ABPL10001: Placeholder'
+title: 'R_Lab: Made by Robots (ABPL90412)'
 desc: ''
-updated: 1646554377607
+updated: 1652673184836
 created: 1645509747928
 ---
-## About
-- Course description
+## [Overview](https://handbook.unimelb.edu.au/subjects/abpl90412)
 
-## Structure
-- [[subject]]
-- [[learning]]
-- [[people]]
-- [[resource]]
+*R_Lab: Made by Robots* is part of the Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students’ design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making – applying contemporary design and making tools to create advanced physical and digital artefacts and environments. For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the [ADD+F Research Hub website](https://msd.unimelb.edu.au/addf) under teaching and learning.
 
+## How to Use This Website
 
-## How to use this website
-  - Replaces Canvas for teaching
-    - Subject Overview, Assignments, standard resources, contacts, etc. remain in use.
-  - About Dendron
+- Replaces Canvas for teaching
+  - Subject Overview, Assignments, standard resources, contacts, etc. remain in use.
+- About Dendron

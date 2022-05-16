@@ -1,12 +1,14 @@
 ---
 id: srt5semhigmnydyk875g2mp
 title: Working in Groups
-desc: Module description
-updated: 1646553010154
+desc: ''
+updated: 1652673650734
 created: 1646553010154
+published: false
 ---
 
 ## Overview
+
 - What does this module cover?
 - What skills will you learn?
   - How do they satisfy the [[learning outcomes|subject.outcomes]]?
@@ -19,7 +21,7 @@ created: 1646553010154
   - [[1.1: Sub-topic 1|admin.template.module#sub-topic-1]]
   - Link to notes if needed
 
-## Content 
+## Content
 
 ### 1. Topic 1
 

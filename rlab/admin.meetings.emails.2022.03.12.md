@@ -22,7 +22,7 @@ traitIds:
     - Student contributions as last resort (discouraged)
   - Students prepare budget
 - Non-human client (*bryophyta* taxa, i.e., mosses)
-  - Provide [[persona|resource.concept.persona]] based on William's independent thesis
+  - Provide [[persona|resources.concepts.persona]] based on William's independent thesis
     - [ ] Adapt thesis content
 
 ### Collaborators
@@ -47,13 +47,13 @@ traitIds:
 
 - [ ] Adapt and insert the standard Lab argument for interspecies design projects @wrdwllm
 - [ ] Update to reflect [[course ethos|subject.introduction]]
-- Frame as a [[design experiment|resource.concept.design-experiment]]
+- Frame as a [[design experiment|resources.concepts.design-experiment]]
   - Coordinators and students accept that the experiment produces useful data regardless of success.
   - Alignment with Deep Design Lab goals guarantees research interest.
 - Subject teaches sustainable collaboration and conflict resolution and provide practical resources for students.
-  - Draw on psychology and team management concepts, e.g., [[modules for working in groups|resource.module.working-in-groups]]
-    - [[resource.concept.collaboration.generative-conflict]] and [[resource.concept.collaboration.agonism]]
-- Students experience [[interdisciplinary collaboration|resource.concept.collaboration.interdisciplinarity]] and identify skills needed to facilitate information exchange.
+  - Draw on psychology and team management concepts, e.g., [[modules for working in groups|resources.modules.working-in-groups]]
+    - [[resources.concepts.collaboration.generative-conflict]] and [[resources.concepts.collaboration.agonism]]
+- Students experience [[interdisciplinary collaboration|resources.concepts.collaboration.interdisciplinarity]] and identify skills needed to facilitate information exchange.
 
 #### Future development
 

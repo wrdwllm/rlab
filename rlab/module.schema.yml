@@ -1,16 +1,16 @@
 version: 1
 imports: []
 schemas:
-  - id: resource
-    title: Resource
+  - id: resources
+    title: Resources
     desc: ""
     parent: root
     children:
-      - module
-  - id: module
-    title: Module
+      - modules
+  - id: modules
+    title: Modules
     desc: ""
-    parent: resource
+    parent: resources
     namespace: true
     template:
       id: admin.template.module
