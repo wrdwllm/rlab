@@ -22,8 +22,11 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: winter-intensive
-            name: winter-intensive
+            fsPath: rlab
+            name: rlab
+            remote:
+                type: git
+                url: "git@github.com:wrdwllm/rlab.git"
     journal:
         dailyDomain: daily
         name: journal
