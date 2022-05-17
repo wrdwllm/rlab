@@ -1,0 +1,17 @@
+
+- Teaching
+  - Groups
+    - Agonism
+    - Generative Conflict
+  - Conceptual
+    - Interspecies Design
+    - More-than-Human Place
+    - Design Experiments
+  - Technical
+    - Robots
+      - Robotic Arms
+      - Fabrication
+    - Sensors
+    - Augmented Reality
+    - LIDAR
+    - Digital Design

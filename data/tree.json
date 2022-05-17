@@ -1,0 +1,484 @@
+{
+  "roots": [
+    {
+      "key": "0JQYFavrgofLMxoIKm6H5",
+      "title": "R_Lab: Made by Robots (ABPL90412)",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "rlab",
+      "children": [
+        {
+          "key": "b5nis4nkgn78reyxzrwl0pk",
+          "title": "Admin",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "xsnodvr75blxygsljmeuvkn",
+              "title": "Contacts",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "4oe0pis4xzbfdohejjeo0rl",
+              "title": "Drafts",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "20zn97zrxsjt9qm8150dxkv",
+                  "title": "Goals",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "3oclimf66vlhqqlkiz2gqen",
+                  "title": "Subject Overview",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": [
+                    {
+                      "key": "epgvtg87na0saczvanx48tx",
+                      "title": "Design/Build",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "rlab",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "19x95kn6gfj7k24tf5r390w",
+                  "title": "Subject Schedule",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "65jay8rty07tij7c71wa97f",
+              "title": "Planning",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "udg6hyl8e557lshiwwxo0uu",
+                  "title": "Design",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "llwp511a8f8mm9ralsnoljk",
+              "title": "Setup",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "wgcpbxt6jiq9b4vp8dnqvho",
+                  "title": "Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "njise3daztmfbgzb687ejch",
+                  "title": "GitLab",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "1vvxmk6qh6km4em75eb1okw",
+              "title": "Template",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "3on8pi4l4qkzy9kqxqi7q1o",
+                  "title": "Module",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "0h5222qozkf3ymlfni144lr",
+                  "title": "People",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "clj43zburopxorvzbyq1jja",
+                  "title": "Week",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "xvdlan0jzanz0622e1s7yki",
+          "title": "Learning",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "87eewkhgc92ppjsjg4nzxjb",
+              "title": "Week 01",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "etw9ahwl05e8maas2sb5ad7",
+          "title": "People",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "jacxzmz29wx2dtxvcpevywc",
+              "title": "Ashley Davis",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "8118ya7dbzrdh3k274a4i62",
+              "title": "William Ward",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "47txo7q30elywpg1y8lkipn",
+          "title": "Resources",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "zueg1h9twgfxkzjkyfm6emf",
+              "title": "Concepts",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "w7ptclc002ph48xqgxguhjo",
+                  "title": "Collaboration",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": [
+                    {
+                      "key": "aqyj4sw6lmboetymzeaunho",
+                      "title": "Agonism",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "rlab",
+                      "children": []
+                    },
+                    {
+                      "key": "2k9yf8xv7leysmrp5c4x6gp",
+                      "title": "Generative Conflict",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "rlab",
+                      "children": []
+                    },
+                    {
+                      "key": "v0rqa9qvm3tt65csouvzoe1",
+                      "title": "Interdisciplinarity",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "rlab",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "8snosjxljpcpoo9qzm92lhp",
+                  "title": "Design Experiment",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "fie69tyntuwfuw6ax75itva",
+                  "title": "More-than-Human Place",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "wf0eodca4thw4t2inuzqb1j",
+                  "title": "Persona",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "yjw5hw4zn5x9ydb0bx3llz3",
+              "title": "Modules",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "yt7eaylukajwfdb0zxh18lm",
+                  "title": "Interspecies Design",
+                  "icon": "bookOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "yaym9kggd2qz1yyxknztir4",
+              "title": "References",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "ursltas85xl00o1w8gj70nf",
+                  "title": "Deep Design Lab Wiki",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "j6yn5mzxjubdo9js8zw8jcd",
+          "title": "Subject",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "17n7pp6g6rev3oyznidxgym",
+              "title": "Assessment",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "iyvpgi3jfr0t82975vtpa5y",
+                  "title": "Main Project",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "sp6wgs9sbppf3dun3y19un2",
+                  "title": "Pre Project",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "5zlfmpglc33t465qlrg9ab4",
+                  "title": "Reflective Journal",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ngc8qxpoxk6dghnxvamip1k",
+              "title": "Brief",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "068hg5oe5wl1j18lcquqhws",
+              "title": "Introduction",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "j6n1ro4alia7nyk192yr51h",
+              "title": "Outcomes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "wxfww06kq4lme9w3eaogupd",
+              "title": "Schedule",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            },
+            {
+              "key": "l6gij9834j8p8ipxegvzb5s",
+              "title": "Subject Overview",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "rlab",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "v9znqrj8n74ag6haqxlzsiz",
+          "title": "Tags",
+          "icon": "numberOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "rlab",
+          "children": [
+            {
+              "key": "mibx8wqojr54omlqc7o0ae3",
+              "title": "Priority",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": true,
+              "vaultName": "rlab",
+              "children": [
+                {
+                  "key": "qu5kbjzs90jdkin12y1hmvl",
+                  "title": "Future",
+                  "icon": null,
+                  "hasTitleNumberOutlined": true,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "nxp4m86wc4f0xugrqlof1tr",
+                  "title": "High",
+                  "icon": null,
+                  "hasTitleNumberOutlined": true,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "su6y4t1zd0na04xcw1c0awc",
+                  "title": "Low",
+                  "icon": null,
+                  "hasTitleNumberOutlined": true,
+                  "vaultName": "rlab",
+                  "children": []
+                },
+                {
+                  "key": "584tq38sa0r18cqn3fgw76g",
+                  "title": "Medium",
+                  "icon": null,
+                  "hasTitleNumberOutlined": true,
+                  "vaultName": "rlab",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "0JQYFavrgofLMxoIKm6H5": null,
+    "v9znqrj8n74ag6haqxlzsiz": "0JQYFavrgofLMxoIKm6H5",
+    "mibx8wqojr54omlqc7o0ae3": "v9znqrj8n74ag6haqxlzsiz",
+    "584tq38sa0r18cqn3fgw76g": "mibx8wqojr54omlqc7o0ae3",
+    "su6y4t1zd0na04xcw1c0awc": "mibx8wqojr54omlqc7o0ae3",
+    "nxp4m86wc4f0xugrqlof1tr": "mibx8wqojr54omlqc7o0ae3",
+    "qu5kbjzs90jdkin12y1hmvl": "mibx8wqojr54omlqc7o0ae3",
+    "j6yn5mzxjubdo9js8zw8jcd": "0JQYFavrgofLMxoIKm6H5",
+    "l6gij9834j8p8ipxegvzb5s": "j6yn5mzxjubdo9js8zw8jcd",
+    "wxfww06kq4lme9w3eaogupd": "j6yn5mzxjubdo9js8zw8jcd",
+    "j6n1ro4alia7nyk192yr51h": "j6yn5mzxjubdo9js8zw8jcd",
+    "068hg5oe5wl1j18lcquqhws": "j6yn5mzxjubdo9js8zw8jcd",
+    "ngc8qxpoxk6dghnxvamip1k": "j6yn5mzxjubdo9js8zw8jcd",
+    "17n7pp6g6rev3oyznidxgym": "j6yn5mzxjubdo9js8zw8jcd",
+    "5zlfmpglc33t465qlrg9ab4": "17n7pp6g6rev3oyznidxgym",
+    "sp6wgs9sbppf3dun3y19un2": "17n7pp6g6rev3oyznidxgym",
+    "iyvpgi3jfr0t82975vtpa5y": "17n7pp6g6rev3oyznidxgym",
+    "47txo7q30elywpg1y8lkipn": "0JQYFavrgofLMxoIKm6H5",
+    "yaym9kggd2qz1yyxknztir4": "47txo7q30elywpg1y8lkipn",
+    "ursltas85xl00o1w8gj70nf": "yaym9kggd2qz1yyxknztir4",
+    "yjw5hw4zn5x9ydb0bx3llz3": "47txo7q30elywpg1y8lkipn",
+    "yt7eaylukajwfdb0zxh18lm": "yjw5hw4zn5x9ydb0bx3llz3",
+    "zueg1h9twgfxkzjkyfm6emf": "47txo7q30elywpg1y8lkipn",
+    "wf0eodca4thw4t2inuzqb1j": "zueg1h9twgfxkzjkyfm6emf",
+    "fie69tyntuwfuw6ax75itva": "zueg1h9twgfxkzjkyfm6emf",
+    "8snosjxljpcpoo9qzm92lhp": "zueg1h9twgfxkzjkyfm6emf",
+    "w7ptclc002ph48xqgxguhjo": "zueg1h9twgfxkzjkyfm6emf",
+    "v0rqa9qvm3tt65csouvzoe1": "w7ptclc002ph48xqgxguhjo",
+    "2k9yf8xv7leysmrp5c4x6gp": "w7ptclc002ph48xqgxguhjo",
+    "aqyj4sw6lmboetymzeaunho": "w7ptclc002ph48xqgxguhjo",
+    "etw9ahwl05e8maas2sb5ad7": "0JQYFavrgofLMxoIKm6H5",
+    "8118ya7dbzrdh3k274a4i62": "etw9ahwl05e8maas2sb5ad7",
+    "jacxzmz29wx2dtxvcpevywc": "etw9ahwl05e8maas2sb5ad7",
+    "xvdlan0jzanz0622e1s7yki": "0JQYFavrgofLMxoIKm6H5",
+    "87eewkhgc92ppjsjg4nzxjb": "xvdlan0jzanz0622e1s7yki",
+    "b5nis4nkgn78reyxzrwl0pk": "0JQYFavrgofLMxoIKm6H5",
+    "1vvxmk6qh6km4em75eb1okw": "b5nis4nkgn78reyxzrwl0pk",
+    "clj43zburopxorvzbyq1jja": "1vvxmk6qh6km4em75eb1okw",
+    "0h5222qozkf3ymlfni144lr": "1vvxmk6qh6km4em75eb1okw",
+    "3on8pi4l4qkzy9kqxqi7q1o": "1vvxmk6qh6km4em75eb1okw",
+    "llwp511a8f8mm9ralsnoljk": "b5nis4nkgn78reyxzrwl0pk",
+    "njise3daztmfbgzb687ejch": "llwp511a8f8mm9ralsnoljk",
+    "wgcpbxt6jiq9b4vp8dnqvho": "llwp511a8f8mm9ralsnoljk",
+    "65jay8rty07tij7c71wa97f": "b5nis4nkgn78reyxzrwl0pk",
+    "udg6hyl8e557lshiwwxo0uu": "65jay8rty07tij7c71wa97f",
+    "4oe0pis4xzbfdohejjeo0rl": "b5nis4nkgn78reyxzrwl0pk",
+    "19x95kn6gfj7k24tf5r390w": "4oe0pis4xzbfdohejjeo0rl",
+    "3oclimf66vlhqqlkiz2gqen": "4oe0pis4xzbfdohejjeo0rl",
+    "epgvtg87na0saczvanx48tx": "3oclimf66vlhqqlkiz2gqen",
+    "20zn97zrxsjt9qm8150dxkv": "4oe0pis4xzbfdohejjeo0rl",
+    "xsnodvr75blxygsljmeuvkn": "b5nis4nkgn78reyxzrwl0pk"
+  }
+}

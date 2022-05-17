@@ -1,0 +1,74 @@
+<h1 id="dendron"><a aria-hidden="true" class="anchor-heading" href="#dendron"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Dendron</h1>
+<h2 id="setting-up-dendron"><a aria-hidden="true" class="anchor-heading" href="#setting-up-dendron"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Setting up Dendron</h2>
+<ol>
+<li>Install <a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
+<li>Install <a href="https://git-scm.com/">git</a> (Windows only)
+<ol>
+<li><a href="https://stackoverflow.com/questions/26620312/git-installing-git-in-path-with-github-client-for-windows">Add <code>git</code> to Windows PATH</a></li>
+</ol>
+</li>
+<li>Install <a href="https://marketplace.visualstudio.com/items?itemName=dendron.dendron">Dendron</a>
+<ol>
+<li>Open the command palette using <kbd>Cmd</kbd>/<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd></li>
+<li>Create a new <a href="https://wiki.dendron.so/notes/c4cf5519-f7c2-4a23-b93b-1c9a02880f6b/">workspace</a> using <code>> Dendron: Initialize Workspace</code></li>
+</ol>
+</li>
+<li><a href="https://github.com/join">Make a GitHub account</a>
+<ol>
+<li>Send username to <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">@wrdwllm (Private)</a></li>
+<li>Accept invitation to the <a href="https://github.com/wrdwllm/winter-intensive">winter-intensive</a> repository</li>
+</ol>
+</li>
+<li><a href="https://code.visualstudio.com/docs/editor/github">Link GitHub to VS Code using the GitHub extension</a></li>
+<li>Install required extensions
+<ol>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">markdownlint</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=dendron.dendron-markdown-shortcuts">Dendron Markdown Shortcuts</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github">GitHub Pull Requests</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=dendron.dendron-paste-image">Dendron Paste Image</a></li>
+</ol>
+</li>
+<li>Initialise a remote Dendron vault using the GitHub link
+<ol>
+<li>Run <code>> Dendron: Add Vault</code></li>
+<li>Select <code>remote</code></li>
+<li>Paste <a href="https://github.com/wrdwllm/winter-intensive.git">https://github.com/wrdwllm/winter-intensive.git</a> and press <kbd>Enter</kbd></li>
+</ol>
+</li>
+<li>Add content and sync with remote repository
+<ol>
+<li>Pull most recent commit when you open Dendron
+<ol>
+<li>Open terminal shell</li>
+<li>Navigate to root workspace directory with <code>.git</code> (not vault)</li>
+<li><img src="/rlab/assets/images/2022-03-12-16-35-12.png" alt="Screenshot"></li>
+<li>Run <code>git pull</code></li>
+</ol>
+</li>
+<li>Push to remote after making significant updates
+<ol>
+<li><code>git add .</code></li>
+<li><code>git commit -m 'commit message</code></li>
+<li>Resolve conflicts using the Source Control tab (contact <a title="Private" style="color: brown" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank">@wrdwllm (Private)</a> if unsure)</li>
+<li><code>git push</code></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="workflow"><a aria-hidden="true" class="anchor-heading" href="#workflow"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Workflow</h2>
+<ol>
+<li>Follow the <a href="https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1/">Getting Started Guide</a> and the Dendron tutorial</li>
+<li>Use <a href="https://wiki.dendron.so/notes/ba97866b-889f-4ac6-86e7-bb2d97f6e376/">Markdown</a></li>
+<li>Make a new note
+<ol>
+<li>Press <kbd>Cmd</kbd>/<kbd>Ctrl</kbd> + <kbd>L</kbd></li>
+<li>Write content</li>
+<li><a href="https://wiki.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2/">Link to a note</a> using syntax <code>[[note.file.name]]</code></li>
+<li>Open Markdown preview window using <code>> Dendron: Show Preview</code></li>
+<li>Use <a href="https://wiki.dendron.so/notes/8DCgctK-RMD4EeHjC5_hI/">GitHub Flavoured Markdown</a></li>
+<li>Resolve display issues with <code>> Dendron: Reload Index</code> and <code>> Developer: Reload Window</code></li>
+</ol>
+</li>
+<li>Sync to repository (see Step 8 in previous section)</li>
+</ol>

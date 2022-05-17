@@ -1,0 +1,3969 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1652753696355,
+      "created": 1652753696355,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "0JQYFavrgofLMxoIKm6H5": {
+      "id": "0JQYFavrgofLMxoIKm6H5",
+      "title": "R_Lab: Made by Robots (ABPL90412)",
+      "desc": "",
+      "updated": 1652673184836,
+      "created": 1645509747928,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "77e0dd317559247563e4a62dd9b167e4",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.template.module",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 519
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 527
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 520
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 528
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 519
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 527
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-use-this-website": {
+          "type": "header",
+          "text": "How to Use This Website",
+          "value": "how-to-use-this-website",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "b5nis4nkgn78reyxzrwl0pk",
+        "xvdlan0jzanz0622e1s7yki",
+        "etw9ahwl05e8maas2sb5ad7",
+        "47txo7q30elywpg1y8lkipn",
+        "j6yn5mzxjubdo9js8zw8jcd",
+        "v9znqrj8n74ag6haqxlzsiz"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "v9znqrj8n74ag6haqxlzsiz": {
+      "fname": "tags",
+      "stub": true,
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1652753696267,
+      "created": 1652753696267,
+      "id": "v9znqrj8n74ag6haqxlzsiz",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "mibx8wqojr54omlqc7o0ae3"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {},
+      "title": "Tags"
+    },
+    "mibx8wqojr54omlqc7o0ae3": {
+      "fname": "tags.priority",
+      "stub": true,
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1652753696268,
+      "created": 1652753696268,
+      "id": "mibx8wqojr54omlqc7o0ae3",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "qu5kbjzs90jdkin12y1hmvl",
+        "nxp4m86wc4f0xugrqlof1tr",
+        "su6y4t1zd0na04xcw1c0awc",
+        "584tq38sa0r18cqn3fgw76g"
+      ],
+      "parent": "v9znqrj8n74ag6haqxlzsiz",
+      "data": {},
+      "title": "Priority"
+    },
+    "584tq38sa0r18cqn3fgw76g": {
+      "id": "584tq38sa0r18cqn3fgw76g",
+      "title": "Medium",
+      "desc": "",
+      "updated": 1652673608746,
+      "created": 1652673608746,
+      "custom": {},
+      "fname": "tags.priority.medium",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "7805c4f9a4c842011d3a829f88f31536",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "mibx8wqojr54omlqc7o0ae3",
+      "data": {}
+    },
+    "su6y4t1zd0na04xcw1c0awc": {
+      "id": "su6y4t1zd0na04xcw1c0awc",
+      "title": "Low",
+      "desc": "",
+      "updated": 1652673604960,
+      "created": 1652673604960,
+      "custom": {},
+      "fname": "tags.priority.low",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "be72ea464ab9cc9ecd201e99f527a823",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "mibx8wqojr54omlqc7o0ae3",
+      "data": {}
+    },
+    "nxp4m86wc4f0xugrqlof1tr": {
+      "id": "nxp4m86wc4f0xugrqlof1tr",
+      "title": "High",
+      "desc": "",
+      "updated": 1652673600023,
+      "created": 1652673600023,
+      "custom": {},
+      "fname": "tags.priority.high",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "7de1975025510435de76c3070fda843c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "mibx8wqojr54omlqc7o0ae3",
+      "data": {}
+    },
+    "qu5kbjzs90jdkin12y1hmvl": {
+      "id": "qu5kbjzs90jdkin12y1hmvl",
+      "title": "Future",
+      "desc": "",
+      "updated": 1652673567223,
+      "created": 1652673567223,
+      "custom": {},
+      "fname": "tags.priority.future",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "fcabaf2758a0f0eebf5032200e3a1b93",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "mibx8wqojr54omlqc7o0ae3",
+      "data": {}
+    },
+    "j6yn5mzxjubdo9js8zw8jcd": {
+      "id": "j6yn5mzxjubdo9js8zw8jcd",
+      "title": "Subject",
+      "desc": "",
+      "updated": 1646541484816,
+      "created": 1646541150730,
+      "custom": {},
+      "fname": "subject",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "63c0a816dc8abd2a30a410ceb143bf7d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "17n7pp6g6rev3oyznidxgym",
+        "ngc8qxpoxk6dghnxvamip1k",
+        "068hg5oe5wl1j18lcquqhws",
+        "j6n1ro4alia7nyk192yr51h",
+        "wxfww06kq4lme9w3eaogupd",
+        "l6gij9834j8p8ipxegvzb5s"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {}
+    },
+    "l6gij9834j8p8ipxegvzb5s": {
+      "id": "l6gij9834j8p8ipxegvzb5s",
+      "title": "Subject Overview",
+      "desc": "",
+      "updated": 1646543301266,
+      "created": 1646543287226,
+      "custom": {},
+      "fname": "subject.subject-overview",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "70cd6b1d87ef340a27c7b1418a981116",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "subject.subject-overview",
+            "id": "l6gij9834j8p8ipxegvzb5s",
+            "vaultName": "rlab"
+          },
+          "value": "subject.outcomes",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 22,
+              "offset": 22
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "subject.outcomes"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "wxfww06kq4lme9w3eaogupd": {
+      "id": "wxfww06kq4lme9w3eaogupd",
+      "title": "Schedule",
+      "desc": "",
+      "updated": 1646544643532,
+      "created": 1646541150726,
+      "custom": {},
+      "fname": "subject.schedule",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "84311cc4ad57f4646cd313f767995241",
+      "links": [],
+      "anchors": {
+        "week-one": {
+          "type": "header",
+          "text": "Week One",
+          "value": "week-one",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "week-two": {
+          "type": "header",
+          "text": "Week Two",
+          "value": "week-two",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "week-three": {
+          "type": "header",
+          "text": "Week Three",
+          "value": "week-three",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "week-4": {
+          "type": "header",
+          "text": "Week 4",
+          "value": "week-4",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "week-5": {
+          "type": "header",
+          "text": "Week 5",
+          "value": "week-5",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "week-6": {
+          "type": "header",
+          "text": "Week 6",
+          "value": "week-6",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "j6n1ro4alia7nyk192yr51h": {
+      "id": "j6n1ro4alia7nyk192yr51h",
+      "title": "Outcomes",
+      "desc": "",
+      "updated": 1646554561888,
+      "created": 1646096336029,
+      "custom": {},
+      "fname": "subject.outcomes",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "7a197fead12c1019361bb63871f7352c",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "subject.outcomes",
+            "id": "j6n1ro4alia7nyk192yr51h",
+            "vaultName": "rlab"
+          },
+          "value": "subject.introduction",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 64
+            },
+            "end": {
+              "line": 4,
+              "column": 26,
+              "offset": 89
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "subject.introduction"
+          }
+        },
+        {
+          "from": {
+            "fname": "subject.introduction",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 213,
+              "offset": 542
+            },
+            "end": {
+              "line": 6,
+              "column": 242,
+              "offset": 571
+            },
+            "indent": []
+          },
+          "value": "subject.outcomes",
+          "alias": "Outcomes"
+        },
+        {
+          "from": {
+            "fname": "subject.subject-overview",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 22,
+              "offset": 22
+            },
+            "indent": []
+          },
+          "value": "subject.outcomes"
+        },
+        {
+          "from": {
+            "fname": "admin.template.module",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 103
+            },
+            "end": {
+              "line": 6,
+              "column": 67,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "value": "subject.outcomes",
+          "alias": "learning outcomes"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 103
+            },
+            "end": {
+              "line": 6,
+              "column": 67,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "value": "subject.outcomes",
+          "alias": "learning outcomes"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 103
+            },
+            "end": {
+              "line": 6,
+              "column": 67,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "value": "subject.outcomes",
+          "alias": "learning outcomes"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "068hg5oe5wl1j18lcquqhws": {
+      "id": "068hg5oe5wl1j18lcquqhws",
+      "title": "Introduction",
+      "desc": "",
+      "updated": 1647073895842,
+      "created": 1646096436044,
+      "custom": {},
+      "fname": "subject.introduction",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "33b8840ff2304a9029688c2b30de4eb4",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "subject.introduction",
+            "id": "068hg5oe5wl1j18lcquqhws",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.design-experiment",
+          "alias": "design experiment",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 11,
+              "offset": 37
+            },
+            "end": {
+              "line": 4,
+              "column": 69,
+              "offset": 95
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.design-experiment"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "subject.introduction",
+            "id": "068hg5oe5wl1j18lcquqhws",
+            "vaultName": "rlab"
+          },
+          "value": "subject.assessment.reflective-journal",
+          "alias": "reflective journal",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 241,
+              "offset": 267
+            },
+            "end": {
+              "line": 4,
+              "column": 301,
+              "offset": 327
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.assessment.reflective-journal"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "subject.introduction",
+            "id": "068hg5oe5wl1j18lcquqhws",
+            "vaultName": "rlab"
+          },
+          "value": "subject.outcomes",
+          "alias": "Outcomes",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 213,
+              "offset": 542
+            },
+            "end": {
+              "line": 6,
+              "column": 242,
+              "offset": 571
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.outcomes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "subject.introduction",
+            "id": "068hg5oe5wl1j18lcquqhws",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.collaboration.generative-conflict",
+          "alias": "generative conflict",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 101,
+              "offset": 1205
+            },
+            "end": {
+              "line": 20,
+              "column": 177,
+              "offset": 1281
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.collaboration.generative-conflict"
+          }
+        },
+        {
+          "from": {
+            "fname": "subject.outcomes",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 64
+            },
+            "end": {
+              "line": 4,
+              "column": 26,
+              "offset": 89
+            },
+            "indent": []
+          },
+          "value": "subject.introduction"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 25,
+              "offset": 1491
+            },
+            "end": {
+              "line": 40,
+              "column": 62,
+              "offset": 1528
+            },
+            "indent": []
+          },
+          "value": "subject.introduction",
+          "alias": "course ethos"
+        }
+      ],
+      "anchors": {
+        "this-is-an-experiment": {
+          "type": "header",
+          "text": "This is an experiment",
+          "value": "this-is-an-experiment",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "this-is-the-beginning-of-a-long-process": {
+          "type": "header",
+          "text": "This is the beginning of a long process",
+          "value": "this-is-the-beginning-of-a-long-process",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "this-is-weird": {
+          "type": "header",
+          "text": "This is weird",
+          "value": "this-is-weird",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "its-not-like-this-in-practice": {
+          "type": "header",
+          "text": "It's not like this in practice",
+          "value": "its-not-like-this-in-practice",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "we-prioritise-reflection-not-perfection": {
+          "type": "header",
+          "text": "We prioritise reflection not perfection",
+          "value": "we-prioritise-reflection-not-perfection",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "ngc8qxpoxk6dghnxvamip1k": {
+      "id": "ngc8qxpoxk6dghnxvamip1k",
+      "title": "Brief",
+      "desc": "",
+      "updated": 1647061083936,
+      "created": 1647061010694,
+      "custom": {},
+      "fname": "subject.brief",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "36cc6d0b6971526ad2d4baa46508f3af",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "17n7pp6g6rev3oyznidxgym": {
+      "id": "17n7pp6g6rev3oyznidxgym",
+      "title": "Assessment",
+      "desc": "",
+      "updated": 1646460781069,
+      "created": 1646460781069,
+      "custom": {},
+      "fname": "subject.assessment",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "69dfebe206b9a298667e0f55fcf6081e",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.template.module",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 35,
+              "offset": 177
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "value": "subject.assessment",
+          "alias": "assessment"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 35,
+              "offset": 177
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "value": "subject.assessment",
+          "alias": "assessment"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 35,
+              "offset": 177
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "value": "subject.assessment",
+          "alias": "assessment"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "iyvpgi3jfr0t82975vtpa5y",
+        "sp6wgs9sbppf3dun3y19un2",
+        "5zlfmpglc33t465qlrg9ab4"
+      ],
+      "parent": "j6yn5mzxjubdo9js8zw8jcd",
+      "data": {}
+    },
+    "5zlfmpglc33t465qlrg9ab4": {
+      "id": "5zlfmpglc33t465qlrg9ab4",
+      "title": "Reflective Journal",
+      "desc": "",
+      "updated": 1646096873101,
+      "created": 1646096278695,
+      "custom": {},
+      "fname": "subject.assessment.reflective-journal",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "ad962a7ed43aa19baeeb8af0f566d7d8",
+      "links": [
+        {
+          "from": {
+            "fname": "subject.introduction",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 241,
+              "offset": 267
+            },
+            "end": {
+              "line": 4,
+              "column": 301,
+              "offset": 327
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.reflective-journal",
+          "alias": "reflective journal"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "17n7pp6g6rev3oyznidxgym",
+      "data": {}
+    },
+    "sp6wgs9sbppf3dun3y19un2": {
+      "id": "sp6wgs9sbppf3dun3y19un2",
+      "title": "Pre Project",
+      "desc": "",
+      "updated": 1647061099623,
+      "created": 1647061099623,
+      "custom": {},
+      "fname": "subject.assessment.pre-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "913826f7749dac33ab46455f70c0e1f3",
+      "links": [
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 399
+            },
+            "end": {
+              "line": 16,
+              "column": 36,
+              "offset": 434
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.pre-project"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 70,
+              "column": 100,
+              "offset": 3218
+            },
+            "end": {
+              "line": 70,
+              "column": 134,
+              "offset": 3252
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.pre-project",
+          "alias": "subject.assessment.pre-project"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 75,
+              "column": 1,
+              "offset": 3346
+            },
+            "end": {
+              "line": 75,
+              "column": 36,
+              "offset": 3381
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.pre-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "17n7pp6g6rev3oyznidxgym",
+      "data": {}
+    },
+    "iyvpgi3jfr0t82975vtpa5y": {
+      "id": "iyvpgi3jfr0t82975vtpa5y",
+      "title": "Main Project",
+      "desc": "",
+      "updated": 1647061094780,
+      "created": 1647061094780,
+      "custom": {},
+      "fname": "subject.assessment.main-project",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "568636007efcfb8d532ef1ed75df1f27",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 70,
+              "column": 60,
+              "offset": 3178
+            },
+            "end": {
+              "line": 70,
+              "column": 95,
+              "offset": 3213
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.main-project",
+          "alias": "subject.assessment.main-project"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 81,
+              "column": 1,
+              "offset": 3567
+            },
+            "end": {
+              "line": 81,
+              "column": 37,
+              "offset": 3603
+            },
+            "indent": []
+          },
+          "value": "subject.assessment.main-project"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "17n7pp6g6rev3oyznidxgym",
+      "data": {}
+    },
+    "47txo7q30elywpg1y8lkipn": {
+      "id": "47txo7q30elywpg1y8lkipn",
+      "title": "Resources",
+      "desc": "",
+      "updated": 1652673291439,
+      "created": 1652673291439,
+      "custom": {},
+      "fname": "resources",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "ef7ba577d21df4340f3a361a9440100c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "zueg1h9twgfxkzjkyfm6emf",
+        "yjw5hw4zn5x9ydb0bx3llz3",
+        "yaym9kggd2qz1yyxknztir4"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {},
+      "schema": {
+        "schemaId": "resources",
+        "moduleId": "resources"
+      }
+    },
+    "yaym9kggd2qz1yyxknztir4": {
+      "id": "yaym9kggd2qz1yyxknztir4",
+      "title": "References",
+      "desc": "",
+      "updated": 1652673751368,
+      "created": 1646541243173,
+      "custom": {},
+      "fname": "resources.references",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "e54b176ebdee45e8113769ddccdeb66a",
+      "links": [],
+      "anchors": {
+        "msd-robotics-lab": {
+          "type": "header",
+          "text": "MSD Robotics Lab",
+          "value": "msd-robotics-lab",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "deep-design-lab-wiki": {
+          "type": "header",
+          "text": "Deep Design Lab Wiki",
+          "value": "deep-design-lab-wiki",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "place-and-colour": {
+          "type": "header",
+          "text": "Place and Colour",
+          "value": "place-and-colour",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ursltas85xl00o1w8gj70nf"
+      ],
+      "parent": "47txo7q30elywpg1y8lkipn",
+      "data": {}
+    },
+    "ursltas85xl00o1w8gj70nf": {
+      "id": "ursltas85xl00o1w8gj70nf",
+      "title": "Deep Design Lab Wiki",
+      "desc": "",
+      "updated": 1652673677328,
+      "created": 1646098006705,
+      "custom": {},
+      "fname": "resources.references.deep-design-lab-wiki",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "10f47b837931686b4ad32d7ec49a94ef",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "yaym9kggd2qz1yyxknztir4",
+      "data": {}
+    },
+    "yjw5hw4zn5x9ydb0bx3llz3": {
+      "id": "yjw5hw4zn5x9ydb0bx3llz3",
+      "title": "Modules",
+      "desc": "",
+      "updated": 1652674164522,
+      "created": 1646539640294,
+      "custom": {},
+      "fname": "resources.modules",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "bb1a89ab43c99e4e2bfe07ceef3e379e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "yt7eaylukajwfdb0zxh18lm"
+      ],
+      "parent": "47txo7q30elywpg1y8lkipn",
+      "data": {},
+      "schema": {
+        "schemaId": "modules",
+        "moduleId": "resources"
+      }
+    },
+    "yt7eaylukajwfdb0zxh18lm": {
+      "id": "yt7eaylukajwfdb0zxh18lm",
+      "title": "Interspecies Design",
+      "desc": "Module description",
+      "updated": 1652674173864,
+      "created": 1652674170103,
+      "custom": {},
+      "fname": "resources.modules.interspecies-design",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "aa1aa276e1cf4ea71148c10e870470b7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "subject.outcomes",
+          "alias": "learning outcomes",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 103
+            },
+            "end": {
+              "line": 6,
+              "column": 67,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.outcomes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "subject.assessment",
+          "alias": "assessment",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 35,
+              "offset": 177
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.assessment"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "admin.template.module",
+          "alias": "1: Topic 1",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 263
+            },
+            "end": {
+              "line": 12,
+              "column": 49,
+              "offset": 309
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.template.module",
+            "anchorHeader": "1-topic-1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "admin.template.module",
+          "alias": "1.1: Sub-topic 1",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 13,
+              "column": 59,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.template.module",
+            "anchorHeader": "sub-topic-1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "root",
+          "alias": "root",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 520
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 528
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "root"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "id": "yt7eaylukajwfdb0zxh18lm",
+            "vaultName": "rlab"
+          },
+          "value": "learning",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 27,
+              "offset": 556
+            },
+            "end": {
+              "line": 26,
+              "column": 40,
+              "offset": 569
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "learning"
+          }
+        },
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 15,
+              "offset": 225
+            },
+            "end": {
+              "line": 9,
+              "column": 76,
+              "offset": 286
+            },
+            "indent": []
+          },
+          "value": "resources.modules.interspecies-design",
+          "alias": "interspecies design"
+        },
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 491
+            },
+            "end": {
+              "line": 22,
+              "column": 43,
+              "offset": 533
+            },
+            "indent": []
+          },
+          "value": "resources.modules.interspecies-design"
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "structure": {
+          "type": "header",
+          "text": "Structure",
+          "value": "structure",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "content": {
+          "type": "header",
+          "text": "Content",
+          "value": "content",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "1-topic-1": {
+          "type": "header",
+          "text": "1. Topic 1",
+          "value": "1-topic-1",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "sub-topic-1": {
+          "type": "header",
+          "text": "Sub-topic 1",
+          "value": "sub-topic-1",
+          "line": 36,
+          "column": 0,
+          "depth": 4
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "yjw5hw4zn5x9ydb0bx3llz3",
+      "data": {},
+      "schema": {
+        "schemaId": "modules",
+        "moduleId": "resources"
+      }
+    },
+    "zueg1h9twgfxkzjkyfm6emf": {
+      "id": "zueg1h9twgfxkzjkyfm6emf",
+      "title": "Concepts",
+      "desc": "",
+      "updated": 1646460781074,
+      "created": 1646460781074,
+      "custom": {},
+      "fname": "resources.concepts",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "a2635e59f3358591b6c044f23384347b",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "w7ptclc002ph48xqgxguhjo",
+        "8snosjxljpcpoo9qzm92lhp",
+        "fie69tyntuwfuw6ax75itva",
+        "wf0eodca4thw4t2inuzqb1j"
+      ],
+      "parent": "47txo7q30elywpg1y8lkipn",
+      "data": {}
+    },
+    "wf0eodca4thw4t2inuzqb1j": {
+      "id": "wf0eodca4thw4t2inuzqb1j",
+      "title": "Persona",
+      "desc": "",
+      "updated": 1647060873098,
+      "created": 1647060848327,
+      "custom": {},
+      "fname": "resources.concepts.persona",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "6c27e2e5c30c9271be8ac38a789bf565",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 13,
+              "offset": 516
+            },
+            "end": {
+              "line": 16,
+              "column": 51,
+              "offset": 554
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.persona",
+          "alias": "persona"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zueg1h9twgfxkzjkyfm6emf",
+      "data": {}
+    },
+    "fie69tyntuwfuw6ax75itva": {
+      "id": "fie69tyntuwfuw6ax75itva",
+      "title": "More-than-Human Place",
+      "desc": "",
+      "updated": 1652710758525,
+      "created": 1652710732225,
+      "custom": {},
+      "fname": "resources.concepts.more-than-human-place",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "7aa8f858dc00168e533d24b7c5a8e08e",
+      "links": [
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 15,
+              "offset": 301
+            },
+            "end": {
+              "line": 10,
+              "column": 81,
+              "offset": 367
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.more-than-human-place",
+          "alias": "more-than-human place"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zueg1h9twgfxkzjkyfm6emf",
+      "data": {}
+    },
+    "8snosjxljpcpoo9qzm92lhp": {
+      "id": "8snosjxljpcpoo9qzm92lhp",
+      "title": "Design Experiment",
+      "desc": "",
+      "updated": 1646095770352,
+      "created": 1646095770352,
+      "custom": {},
+      "fname": "resources.concepts.design-experiment",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "c398cf049729b45f580b000b958967f4",
+      "links": [
+        {
+          "from": {
+            "fname": "subject.introduction",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 11,
+              "offset": 37
+            },
+            "end": {
+              "line": 4,
+              "column": 69,
+              "offset": 95
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.design-experiment",
+          "alias": "design experiment"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 14,
+              "offset": 1542
+            },
+            "end": {
+              "line": 41,
+              "column": 72,
+              "offset": 1600
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.design-experiment",
+          "alias": "design experiment"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zueg1h9twgfxkzjkyfm6emf",
+      "data": {}
+    },
+    "w7ptclc002ph48xqgxguhjo": {
+      "id": "w7ptclc002ph48xqgxguhjo",
+      "title": "Collaboration",
+      "desc": "",
+      "updated": 1646096835314,
+      "created": 1646016710053,
+      "custom": {},
+      "fname": "resources.concepts.collaboration",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "3566532449a9f5e3f6946cf2f75b4faf",
+      "links": [
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 20,
+              "offset": 44
+            },
+            "end": {
+              "line": 6,
+              "column": 76,
+              "offset": 100
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration",
+          "alias": "designing in groups"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "aqyj4sw6lmboetymzeaunho",
+        "2k9yf8xv7leysmrp5c4x6gp",
+        "v0rqa9qvm3tt65csouvzoe1"
+      ],
+      "parent": "zueg1h9twgfxkzjkyfm6emf",
+      "data": {}
+    },
+    "v0rqa9qvm3tt65csouvzoe1": {
+      "id": "v0rqa9qvm3tt65csouvzoe1",
+      "title": "Interdisciplinarity",
+      "desc": "",
+      "updated": 1647074014987,
+      "created": 1647074014987,
+      "custom": {},
+      "fname": "resources.concepts.collaboration.interdisciplinarity",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "8e1a0cd70bbbe0ba8c882e2d61723c6c",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 47,
+              "column": 23,
+              "offset": 2150
+            },
+            "end": {
+              "line": 47,
+              "column": 111,
+              "offset": 2238
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.interdisciplinarity",
+          "alias": "interdisciplinary collaboration"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "w7ptclc002ph48xqgxguhjo",
+      "data": {}
+    },
+    "2k9yf8xv7leysmrp5c4x6gp": {
+      "id": "2k9yf8xv7leysmrp5c4x6gp",
+      "title": "Generative Conflict",
+      "desc": "",
+      "updated": 1646541078100,
+      "created": 1646016972197,
+      "custom": {},
+      "fname": "resources.concepts.collaboration.generative-conflict",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "f9036c2e3a45240e136a616b28b8c69d",
+      "links": [
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 154
+            },
+            "end": {
+              "line": 8,
+              "column": 61,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.generative-conflict",
+          "alias": "resources.concepts.collaboration.generative-conflict"
+        },
+        {
+          "from": {
+            "fname": "subject.introduction",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 101,
+              "offset": 1205
+            },
+            "end": {
+              "line": 20,
+              "column": 177,
+              "offset": 1281
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.generative-conflict",
+          "alias": "generative conflict"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 7,
+              "offset": 2022
+            },
+            "end": {
+              "line": 46,
+              "column": 63,
+              "offset": 2078
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.generative-conflict",
+          "alias": "resources.concepts.collaboration.generative-conflict"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "w7ptclc002ph48xqgxguhjo",
+      "data": {}
+    },
+    "aqyj4sw6lmboetymzeaunho": {
+      "id": "aqyj4sw6lmboetymzeaunho",
+      "title": "Agonism",
+      "desc": "",
+      "updated": 1647061329640,
+      "created": 1647061329641,
+      "custom": {},
+      "fname": "resources.concepts.collaboration.agonism",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "85dd36bf56b12ec3eb5affd5058c8c8b",
+      "links": [
+        {
+          "from": {
+            "fname": "learning.week-01",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 105
+            },
+            "end": {
+              "line": 7,
+              "column": 49,
+              "offset": 149
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.agonism",
+          "alias": "resources.concepts.collaboration.agonism"
+        },
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 68,
+              "offset": 2083
+            },
+            "end": {
+              "line": 46,
+              "column": 112,
+              "offset": 2127
+            },
+            "indent": []
+          },
+          "value": "resources.concepts.collaboration.agonism",
+          "alias": "resources.concepts.collaboration.agonism"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "w7ptclc002ph48xqgxguhjo",
+      "data": {}
+    },
+    "etw9ahwl05e8maas2sb5ad7": {
+      "id": "etw9ahwl05e8maas2sb5ad7",
+      "title": "People",
+      "desc": "",
+      "updated": 1646545447509,
+      "created": 1646545362304,
+      "custom": {},
+      "fname": "people",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "c50689f7431a4d388f43902bf0644180",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jacxzmz29wx2dtxvcpevywc",
+        "8118ya7dbzrdh3k274a4i62"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {},
+      "schema": {
+        "schemaId": "people",
+        "moduleId": "people"
+      }
+    },
+    "8118ya7dbzrdh3k274a4i62": {
+      "id": "8118ya7dbzrdh3k274a4i62",
+      "title": "William Ward",
+      "desc": "",
+      "updated": 1652707062507,
+      "created": 1646546603651,
+      "custom": {},
+      "fname": "people.william-ward",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "603c36de18e96c2f7a1b49b6b4324e9f",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.2022.05.16",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 53
+            },
+            "end": {
+              "line": 5,
+              "column": 26,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "people.william-ward",
+          "alias": "people.william-ward"
+        }
+      ],
+      "anchors": {
+        "name": {
+          "type": "header",
+          "text": "Name",
+          "value": "name",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "etw9ahwl05e8maas2sb5ad7",
+      "data": {},
+      "schema": {
+        "schemaId": "people",
+        "moduleId": "people"
+      }
+    },
+    "jacxzmz29wx2dtxvcpevywc": {
+      "id": "jacxzmz29wx2dtxvcpevywc",
+      "title": "Ashley Davis",
+      "desc": "",
+      "updated": 1646546613417,
+      "created": 1646546613417,
+      "custom": {},
+      "fname": "people.ashley-davis",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "b0944f3763c5999dc15a6c93828dc2d6",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.2022.05.16",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 26,
+              "offset": 50
+            },
+            "indent": []
+          },
+          "value": "people.ashley-davis",
+          "alias": "people.ashley-davis"
+        }
+      ],
+      "anchors": {
+        "name": {
+          "type": "header",
+          "text": "Name",
+          "value": "name",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "etw9ahwl05e8maas2sb5ad7",
+      "data": {},
+      "schema": {
+        "schemaId": "people",
+        "moduleId": "people"
+      }
+    },
+    "xvdlan0jzanz0622e1s7yki": {
+      "id": "xvdlan0jzanz0622e1s7yki",
+      "title": "Learning",
+      "desc": "",
+      "updated": 1652707120771,
+      "created": 1646539142478,
+      "custom": {},
+      "fname": "learning",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "dd87c2509ef63bd73435c51279ef7ceb",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.template.module",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 27,
+              "offset": 555
+            },
+            "end": {
+              "line": 26,
+              "column": 40,
+              "offset": 568
+            },
+            "indent": []
+          },
+          "value": "learning"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 27,
+              "offset": 556
+            },
+            "end": {
+              "line": 26,
+              "column": 40,
+              "offset": 569
+            },
+            "indent": []
+          },
+          "value": "learning"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 27,
+              "offset": 555
+            },
+            "end": {
+              "line": 26,
+              "column": 40,
+              "offset": 568
+            },
+            "indent": []
+          },
+          "value": "learning"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "87eewkhgc92ppjsjg4nzxjb"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {},
+      "schema": {
+        "schemaId": "learning",
+        "moduleId": "learning"
+      }
+    },
+    "87eewkhgc92ppjsjg4nzxjb": {
+      "id": "87eewkhgc92ppjsjg4nzxjb",
+      "title": "Week 01",
+      "desc": "",
+      "updated": 1652710770358,
+      "created": 1652708221831,
+      "custom": {},
+      "fname": "learning.week-01",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "acc5402caef4ccf217a2666ddf12d593",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.collaboration",
+          "alias": "designing in groups",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 20,
+              "offset": 44
+            },
+            "end": {
+              "line": 6,
+              "column": 76,
+              "offset": 100
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.collaboration"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.collaboration.agonism",
+          "alias": "resources.concepts.collaboration.agonism",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 105
+            },
+            "end": {
+              "line": 7,
+              "column": 49,
+              "offset": 149
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.collaboration.agonism"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.collaboration.generative-conflict",
+          "alias": "resources.concepts.collaboration.generative-conflict",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 154
+            },
+            "end": {
+              "line": 8,
+              "column": 61,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.collaboration.generative-conflict"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.modules.interspecies-design",
+          "alias": "interspecies design",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 15,
+              "offset": 225
+            },
+            "end": {
+              "line": 9,
+              "column": 76,
+              "offset": 286
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.modules.interspecies-design"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.concepts.more-than-human-place",
+          "alias": "more-than-human place",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 15,
+              "offset": 301
+            },
+            "end": {
+              "line": 10,
+              "column": 81,
+              "offset": 367
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "resources.concepts.more-than-human-place"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "subject.assessment.pre-project",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 399
+            },
+            "end": {
+              "line": 16,
+              "column": 36,
+              "offset": 434
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "subject.assessment.pre-project"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.modules.working-in-groups",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 1,
+              "offset": 449
+            },
+            "end": {
+              "line": 20,
+              "column": 41,
+              "offset": 489
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.modules.working-in-groups"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "learning.week-01",
+            "id": "87eewkhgc92ppjsjg4nzxjb",
+            "vaultName": "rlab"
+          },
+          "value": "resources.modules.interspecies-design",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 491
+            },
+            "end": {
+              "line": 22,
+              "column": 43,
+              "offset": 533
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.modules.interspecies-design"
+          }
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "outcomes": {
+          "type": "header",
+          "text": "Outcomes",
+          "value": "outcomes",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "assessment": {
+          "type": "header",
+          "text": "Assessment",
+          "value": "assessment",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "learning": {
+          "type": "header",
+          "text": "Learning",
+          "value": "learning",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "xvdlan0jzanz0622e1s7yki",
+      "data": {},
+      "schema": {
+        "schemaId": "s1od1p6kqa4sny95674f1gu",
+        "moduleId": "learning"
+      }
+    },
+    "b5nis4nkgn78reyxzrwl0pk": {
+      "id": "b5nis4nkgn78reyxzrwl0pk",
+      "title": "Admin",
+      "desc": "",
+      "updated": 1647065066924,
+      "created": 1646541518019,
+      "published": true,
+      "custom": {
+        "published": true
+      },
+      "fname": "admin",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "ec0e9d0e1cb56dd1db3cd473318b6584",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "xsnodvr75blxygsljmeuvkn",
+        "4oe0pis4xzbfdohejjeo0rl",
+        "65jay8rty07tij7c71wa97f",
+        "llwp511a8f8mm9ralsnoljk",
+        "1vvxmk6qh6km4em75eb1okw"
+      ],
+      "parent": "0JQYFavrgofLMxoIKm6H5",
+      "data": {}
+    },
+    "1vvxmk6qh6km4em75eb1okw": {
+      "fname": "admin.template",
+      "stub": true,
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1652753696264,
+      "created": 1652753696264,
+      "id": "1vvxmk6qh6km4em75eb1okw",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "3on8pi4l4qkzy9kqxqi7q1o",
+        "0h5222qozkf3ymlfni144lr",
+        "clj43zburopxorvzbyq1jja"
+      ],
+      "parent": "b5nis4nkgn78reyxzrwl0pk",
+      "data": {},
+      "title": "Template"
+    },
+    "clj43zburopxorvzbyq1jja": {
+      "id": "clj43zburopxorvzbyq1jja",
+      "title": "Week",
+      "desc": "",
+      "updated": 1652708213547,
+      "created": 1646554685956,
+      "custom": {},
+      "fname": "admin.template.week",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "fba8fe11cb7543e696d8c0693cc28d13",
+      "links": [],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "outcomes": {
+          "type": "header",
+          "text": "Outcomes",
+          "value": "outcomes",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "assessment": {
+          "type": "header",
+          "text": "Assessment",
+          "value": "assessment",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "learning": {
+          "type": "header",
+          "text": "Learning",
+          "value": "learning",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1vvxmk6qh6km4em75eb1okw",
+      "data": {}
+    },
+    "0h5222qozkf3ymlfni144lr": {
+      "id": "0h5222qozkf3ymlfni144lr",
+      "title": "People",
+      "desc": "",
+      "updated": 1652707073577,
+      "created": 1646545225916,
+      "custom": {},
+      "fname": "admin.template.people",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "d16d3f76fd55a7d609e80c2568c886f7",
+      "links": [],
+      "anchors": {
+        "name": {
+          "type": "header",
+          "text": "Name",
+          "value": "name",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1vvxmk6qh6km4em75eb1okw",
+      "data": {}
+    },
+    "3on8pi4l4qkzy9kqxqi7q1o": {
+      "id": "3on8pi4l4qkzy9kqxqi7q1o",
+      "title": "Module",
+      "desc": "Module description",
+      "updated": 1652708141205,
+      "created": 1646546688336,
+      "custom": {},
+      "fname": "admin.template.module",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "31af6c206b5c6960910e02d5356191b2",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "subject.outcomes",
+          "alias": "learning outcomes",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 29,
+              "offset": 103
+            },
+            "end": {
+              "line": 6,
+              "column": 67,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.outcomes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "subject.assessment",
+          "alias": "assessment",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 35,
+              "offset": 177
+            },
+            "end": {
+              "line": 7,
+              "column": 68,
+              "offset": 210
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "subject.assessment"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "admin.template.module",
+          "alias": "1: Topic 1",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 263
+            },
+            "end": {
+              "line": 12,
+              "column": 49,
+              "offset": 309
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.template.module",
+            "anchorHeader": "1-topic-1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "admin.template.module",
+          "alias": "1.1: Sub-topic 1",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 13,
+              "column": 59,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.template.module",
+            "anchorHeader": "sub-topic-1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "root",
+          "alias": "root",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 519
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 527
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "root"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "admin.template.module",
+            "id": "3on8pi4l4qkzy9kqxqi7q1o",
+            "vaultName": "rlab"
+          },
+          "value": "learning",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 27,
+              "offset": 555
+            },
+            "end": {
+              "line": 26,
+              "column": 40,
+              "offset": 568
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "learning"
+          }
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 263
+            },
+            "end": {
+              "line": 12,
+              "column": 49,
+              "offset": 309
+            },
+            "indent": []
+          },
+          "value": "admin.template.module",
+          "alias": "1: Topic 1"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 13,
+              "column": 59,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "value": "admin.template.module",
+          "alias": "1.1: Sub-topic 1"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 263
+            },
+            "end": {
+              "line": 12,
+              "column": 49,
+              "offset": 309
+            },
+            "indent": []
+          },
+          "value": "admin.template.module",
+          "alias": "1: Topic 1"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 5,
+              "offset": 314
+            },
+            "end": {
+              "line": 13,
+              "column": 59,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "value": "admin.template.module",
+          "alias": "1.1: Sub-topic 1"
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "structure": {
+          "type": "header",
+          "text": "Structure",
+          "value": "structure",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "content": {
+          "type": "header",
+          "text": "Content",
+          "value": "content",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "1-topic-1": {
+          "type": "header",
+          "text": "1. Topic 1",
+          "value": "1-topic-1",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "sub-topic-1": {
+          "type": "header",
+          "text": "Sub-topic 1",
+          "value": "sub-topic-1",
+          "line": 36,
+          "column": 0,
+          "depth": 4
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "1vvxmk6qh6km4em75eb1okw",
+      "data": {}
+    },
+    "llwp511a8f8mm9ralsnoljk": {
+      "id": "llwp511a8f8mm9ralsnoljk",
+      "title": "Setup",
+      "desc": "",
+      "updated": 1647063841848,
+      "created": 1647063841848,
+      "custom": {},
+      "fname": "admin.setup",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "68cf12f36efb3750907962724d260cc8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wgcpbxt6jiq9b4vp8dnqvho",
+        "njise3daztmfbgzb687ejch"
+      ],
+      "parent": "b5nis4nkgn78reyxzrwl0pk",
+      "data": {}
+    },
+    "njise3daztmfbgzb687ejch": {
+      "id": "njise3daztmfbgzb687ejch",
+      "title": "GitLab",
+      "desc": "",
+      "updated": 1652745296810,
+      "created": 1652745296810,
+      "custom": {},
+      "fname": "admin.setup.gitlab",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "ef8465eaae75b3250006988ddf2c3150",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "llwp511a8f8mm9ralsnoljk",
+      "data": {}
+    },
+    "wgcpbxt6jiq9b4vp8dnqvho": {
+      "id": "wgcpbxt6jiq9b4vp8dnqvho",
+      "title": "Dendron",
+      "desc": "",
+      "updated": 1652742993142,
+      "created": 1647062070862,
+      "custom": {},
+      "fname": "admin.setup.dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "79afffd9c11d13a7028a1cc06097b7a3",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.setup.dendron",
+            "id": "wgcpbxt6jiq9b4vp8dnqvho",
+            "vaultName": "rlab"
+          },
+          "value": "user.wrdwllm",
+          "alias": "@wrdwllm",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 24,
+              "offset": 695
+            },
+            "end": {
+              "line": 11,
+              "column": 32,
+              "offset": 703
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.wrdwllm"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.setup.dendron",
+            "id": "wgcpbxt6jiq9b4vp8dnqvho",
+            "vaultName": "rlab"
+          },
+          "value": "user.wrdwllm",
+          "alias": "@wrdwllm",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 66,
+              "offset": 2068
+            },
+            "end": {
+              "line": 32,
+              "column": 74,
+              "offset": 2076
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.wrdwllm"
+          }
+        }
+      ],
+      "anchors": {
+        "setting-up-dendron": {
+          "type": "header",
+          "text": "Setting up Dendron",
+          "value": "setting-up-dendron",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "workflow": {
+          "type": "header",
+          "text": "Workflow",
+          "value": "workflow",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "llwp511a8f8mm9ralsnoljk",
+      "data": {}
+    },
+    "65jay8rty07tij7c71wa97f": {
+      "id": "65jay8rty07tij7c71wa97f",
+      "title": "Planning",
+      "desc": "",
+      "updated": 1652710509086,
+      "created": 1652710285880,
+      "custom": {},
+      "fname": "admin.planning",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "fa8dc2542a4b06553db1efb0cfd15261",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "admin.planning",
+            "id": "65jay8rty07tij7c71wa97f",
+            "vaultName": "rlab"
+          },
+          "value": "admin.planning.design",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 12
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 38
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "admin.planning.design"
+          }
+        }
+      ],
+      "anchors": {
+        "design": {
+          "type": "header",
+          "text": "Design",
+          "value": "design",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "scope": {
+          "type": "header",
+          "text": "Scope",
+          "value": "scope",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "build": {
+          "type": "header",
+          "text": "Build",
+          "value": "build",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "review": {
+          "type": "header",
+          "text": "Review",
+          "value": "review",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "udg6hyl8e557lshiwwxo0uu"
+      ],
+      "parent": "b5nis4nkgn78reyxzrwl0pk",
+      "data": {}
+    },
+    "udg6hyl8e557lshiwwxo0uu": {
+      "id": "udg6hyl8e557lshiwwxo0uu",
+      "title": "Design",
+      "desc": "",
+      "updated": 1652710484767,
+      "created": 1652710484767,
+      "custom": {},
+      "fname": "admin.planning.design",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "f1841936cd5cdbbfcf0226c8a246a3b3",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.planning",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 12
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 38
+            },
+            "indent": []
+          },
+          "value": "admin.planning.design"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "65jay8rty07tij7c71wa97f",
+      "data": {}
+    },
+    "4oe0pis4xzbfdohejjeo0rl": {
+      "id": "4oe0pis4xzbfdohejjeo0rl",
+      "title": "Drafts",
+      "desc": "",
+      "updated": 1652708344047,
+      "created": 1652708340867,
+      "custom": {},
+      "fname": "admin.drafts",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "6c48824134b8f781f704b318249549e4",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "20zn97zrxsjt9qm8150dxkv",
+        "3oclimf66vlhqqlkiz2gqen",
+        "19x95kn6gfj7k24tf5r390w"
+      ],
+      "parent": "b5nis4nkgn78reyxzrwl0pk",
+      "data": {}
+    },
+    "19x95kn6gfj7k24tf5r390w": {
+      "id": "19x95kn6gfj7k24tf5r390w",
+      "title": "Subject Schedule",
+      "desc": "",
+      "updated": 1652710256581,
+      "created": 1652709409182,
+      "custom": {},
+      "fname": "admin.drafts.subject-schedule",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "2cc3bc58d5696e3772e0ec1db70e8596",
+      "links": [],
+      "anchors": {
+        "phases": {
+          "type": "header",
+          "text": "Phases",
+          "value": "phases",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "design": {
+          "type": "header",
+          "text": "Design",
+          "value": "design",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        },
+        "scope": {
+          "type": "header",
+          "text": "Scope",
+          "value": "scope",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "build": {
+          "type": "header",
+          "text": "Build",
+          "value": "build",
+          "line": 93,
+          "column": 0,
+          "depth": 2
+        },
+        "review": {
+          "type": "header",
+          "text": "Review",
+          "value": "review",
+          "line": 103,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4oe0pis4xzbfdohejjeo0rl",
+      "data": {}
+    },
+    "3oclimf66vlhqqlkiz2gqen": {
+      "id": "3oclimf66vlhqqlkiz2gqen",
+      "title": "Subject Overview",
+      "desc": "",
+      "updated": 1652746520002,
+      "created": 1652708352672,
+      "custom": {},
+      "fname": "admin.drafts.subject-overview",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "1205c4c2f585a22a857bf4b16ed08566",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "admin.drafts.subject-overview",
+            "id": "3oclimf66vlhqqlkiz2gqen",
+            "vaultName": "rlab"
+          },
+          "value": "admin.drafts.subject-overview.design-build",
+          "alias": "admin.drafts.subject-overview.design-build",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 5,
+              "offset": 1024
+            },
+            "end": {
+              "line": 34,
+              "column": 51,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "admin.drafts.subject-overview.design-build"
+          }
+        }
+      ],
+      "anchors": {
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "learning-outcomes": {
+          "type": "header",
+          "text": "Learning Outcomes",
+          "value": "learning-outcomes",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "deep-design-lab": {
+          "type": "header",
+          "text": "Deep Design Lab",
+          "value": "deep-design-lab",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "components": {
+          "type": "header",
+          "text": "Components",
+          "value": "components",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "implementations": {
+          "type": "header",
+          "text": "Implementations",
+          "value": "implementations",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "admindraftssubject-overviewdesign-build": {
+          "type": "header",
+          "text": "admin.drafts.subject-overview.design-build",
+          "value": "admindraftssubject-overviewdesign-build",
+          "line": 40,
+          "column": 0,
+          "depth": 3
+        },
+        "schedule": {
+          "type": "header",
+          "text": "Schedule",
+          "value": "schedule",
+          "line": 47,
+          "column": 0,
+          "depth": 4
+        },
+        "assessment": {
+          "type": "header",
+          "text": "Assessment",
+          "value": "assessment",
+          "line": 56,
+          "column": 0,
+          "depth": 4
+        },
+        "benefits": {
+          "type": "header",
+          "text": "Benefits",
+          "value": "benefits",
+          "line": 68,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [
+        "epgvtg87na0saczvanx48tx"
+      ],
+      "parent": "4oe0pis4xzbfdohejjeo0rl",
+      "data": {}
+    },
+    "epgvtg87na0saczvanx48tx": {
+      "id": "epgvtg87na0saczvanx48tx",
+      "title": "Design/Build",
+      "desc": "",
+      "updated": 1652741845152,
+      "created": 1652741841121,
+      "custom": {},
+      "fname": "admin.drafts.subject-overview.design-build",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "2f18761f37be2cd60765c56f74a1f446",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.drafts.subject-overview",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 5,
+              "offset": 1024
+            },
+            "end": {
+              "line": 34,
+              "column": 51,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "value": "admin.drafts.subject-overview.design-build",
+          "alias": "admin.drafts.subject-overview.design-build"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "3oclimf66vlhqqlkiz2gqen",
+      "data": {}
+    },
+    "20zn97zrxsjt9qm8150dxkv": {
+      "id": "20zn97zrxsjt9qm8150dxkv",
+      "title": "Goals",
+      "desc": "",
+      "updated": 1652741815529,
+      "created": 1652741815529,
+      "custom": {},
+      "fname": "admin.drafts.goals",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "6d2a3fb938ea9cea8a68c81d064acdbd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "4oe0pis4xzbfdohejjeo0rl",
+      "data": {}
+    },
+    "xsnodvr75blxygsljmeuvkn": {
+      "id": "xsnodvr75blxygsljmeuvkn",
+      "title": "Contacts",
+      "desc": "",
+      "updated": 1647073338232,
+      "created": 1646544873219,
+      "custom": {},
+      "fname": "admin.contacts",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "534e23ace1722e8a81dcf66b284f72f5",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.meetings.emails.2022.03.12",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 19
+            },
+            "end": {
+              "line": 4,
+              "column": 37,
+              "offset": 55
+            },
+            "indent": []
+          },
+          "value": "admin.contacts"
+        }
+      ],
+      "anchors": {
+        "rochus-hinkel": {
+          "type": "header",
+          "text": "Rochus Hinkel",
+          "value": "rochus-hinkel",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "andrew-gay-and-tim-uebergang": {
+          "type": "header",
+          "text": "Andrew Gay and Tim Uebergang",
+          "value": "andrew-gay-and-tim-uebergang",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "david-obrien": {
+          "type": "header",
+          "text": "David O'Brien",
+          "value": "david-obrien",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "b5nis4nkgn78reyxzrwl0pk",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "0JQYFavrgofLMxoIKm6H5",
+      "title": "R_Lab: Made by Robots (ABPL90412)",
+      "desc": "",
+      "updated": 1652673184836,
+      "created": 1645509747928,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "rlab",
+        "name": "rlab",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:wrdwllm/rlab.git"
+        }
+      },
+      "contentHash": "77e0dd317559247563e4a62dd9b167e4",
+      "links": [
+        {
+          "from": {
+            "fname": "admin.template.module",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 519
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 527
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.interspecies-design",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 520
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 528
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        },
+        {
+          "from": {
+            "fname": "resources.modules.working-in-groups",
+            "vaultName": "rlab"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 27,
+              "offset": 519
+            },
+            "end": {
+              "line": 24,
+              "column": 35,
+              "offset": 527
+            },
+            "indent": []
+          },
+          "value": "root",
+          "alias": "root"
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-use-this-website": {
+          "type": "header",
+          "text": "How to Use This Website",
+          "value": "how-to-use-this-website",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "b5nis4nkgn78reyxzrwl0pk",
+        "xvdlan0jzanz0622e1s7yki",
+        "etw9ahwl05e8maas2sb5ad7",
+        "47txo7q30elywpg1y8lkipn",
+        "j6yn5mzxjubdo9js8zw8jcd",
+        "v9znqrj8n74ag6haqxlzsiz"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "## [Overview](https://handbook.unimelb.edu.au/subjects/abpl90412)\n\n*R_Lab: Made by Robots* is part of the Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students’ design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making – applying contemporary design and making tools to create advanced physical and digital artefacts and environments. For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the [ADD+F Research Hub website](https://msd.unimelb.edu.au/addf) under teaching and learning.\n\n## How to Use This Website\n\n- Replaces Canvas for teaching\n  - Subject Overview, Assignments, standard resources, contacts, etc. remain in use.\n- About Dendron\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "0JQYFavrgofLMxoIKm6H5",
+    "title": "R_Lab: Made by Robots (ABPL90412)",
+    "desc": "",
+    "updated": 1652673184836,
+    "created": 1645509747928,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "rlab",
+      "name": "rlab",
+      "remote": {
+        "type": "git",
+        "url": "git@github.com:wrdwllm/rlab.git"
+      }
+    },
+    "contentHash": "77e0dd317559247563e4a62dd9b167e4",
+    "links": [
+      {
+        "from": {
+          "fname": "admin.template.module",
+          "vaultName": "rlab"
+        },
+        "type": "backlink",
+        "position": {
+          "start": {
+            "line": 24,
+            "column": 27,
+            "offset": 519
+          },
+          "end": {
+            "line": 24,
+            "column": 35,
+            "offset": 527
+          },
+          "indent": []
+        },
+        "value": "root",
+        "alias": "root"
+      },
+      {
+        "from": {
+          "fname": "resources.modules.interspecies-design",
+          "vaultName": "rlab"
+        },
+        "type": "backlink",
+        "position": {
+          "start": {
+            "line": 24,
+            "column": 27,
+            "offset": 520
+          },
+          "end": {
+            "line": 24,
+            "column": 35,
+            "offset": 528
+          },
+          "indent": []
+        },
+        "value": "root",
+        "alias": "root"
+      },
+      {
+        "from": {
+          "fname": "resources.modules.working-in-groups",
+          "vaultName": "rlab"
+        },
+        "type": "backlink",
+        "position": {
+          "start": {
+            "line": 24,
+            "column": 27,
+            "offset": 519
+          },
+          "end": {
+            "line": 24,
+            "column": 35,
+            "offset": 527
+          },
+          "indent": []
+        },
+        "value": "root",
+        "alias": "root"
+      }
+    ],
+    "anchors": {
+      "overview": {
+        "type": "header",
+        "text": "Overview",
+        "value": "overview",
+        "line": 7,
+        "column": 0,
+        "depth": 2
+      },
+      "how-to-use-this-website": {
+        "type": "header",
+        "text": "How to Use This Website",
+        "value": "how-to-use-this-website",
+        "line": 11,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "b5nis4nkgn78reyxzrwl0pk",
+      "xvdlan0jzanz0622e1s7yki",
+      "etw9ahwl05e8maas2sb5ad7",
+      "47txo7q30elywpg1y8lkipn",
+      "j6yn5mzxjubdo9js8zw8jcd",
+      "v9znqrj8n74ag6haqxlzsiz"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "## [Overview](https://handbook.unimelb.edu.au/subjects/abpl90412)\n\n*R_Lab: Made by Robots* is part of the Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students’ design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making – applying contemporary design and making tools to create advanced physical and digital artefacts and environments. For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the [ADD+F Research Hub website](https://msd.unimelb.edu.au/addf) under teaching and learning.\n\n## How to Use This Website\n\n- Replaces Canvas for teaching\n  - Subject Overview, Assignments, standard resources, contacts, etc. remain in use.\n- About Dendron\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "rlab",
+      "name": "rlab",
+      "remote": {
+        "type": "git",
+        "url": "git@github.com:wrdwllm/rlab.git"
+      }
+    }
+  ]
+}
